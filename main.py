@@ -5,6 +5,7 @@ from typing_extensions import Self
 import time
 from ics import Calendar, Event
 
+
 class GameData(BaseModel):
     name: str
     releasetime: str
@@ -16,7 +17,7 @@ class GameData(BaseModel):
     def toList(self, oldList: list, keyWord: str) -> str:
         newList = ""
         for i in oldList:
-            newList = newList+i[keyWord]+" "
+            newList = newList + i[keyWord] + " "
         return newList
 
     @model_validator(mode="after")
@@ -26,14 +27,12 @@ class GameData(BaseModel):
         return self
 
 
-
-
-def addEvent(c:Calendar, data:GameData)->bool:
+def addEvent(c: Calendar, data: GameData) -> bool:
     try:
-        e =Event()
+        e = Event()
         e.name = data.name
         e.begin = f"{data.releasetime}"
-        e.end = f"{data.releasetime}"
+        e.make_all_day()
         e.categories = ["GameIcs"]
         e.description = f"{data.preface}\n{data.platform}\n{data.tags}\n{data.price}"
         c.events.add(e)
@@ -48,8 +47,6 @@ url = "https://www.yystv.cn/games/game_calendar/get_games"
 headers = {
     "user-agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36 Edg/129.0.0.0",
 }
-
-
 
 
 if __name__ == "__main__":
@@ -78,11 +75,10 @@ if __name__ == "__main__":
                 response = addEvent(c, fin_data)
         else:
             break
-    with open('my.ics', 'w', encoding="UTF-8") as f:
+    with open("my.ics", "w", encoding="UTF-8") as f:
         f.writelines(c.serialize_iter())
         f.close()
     print("ok")
-   
 
 
 # with open("data.json", "w", encoding="UTF-8") as f:
