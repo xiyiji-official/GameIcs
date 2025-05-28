@@ -10,6 +10,9 @@
 
 ## 使用方法
 ### 1. 直接使用
+```bash
+https://raw.githubusercontent.com/xiyiji-official/GameIcs/refs/heads/main/my.ics
+```
 使用本项目的生成的ics文件链接作为**订阅链接**导入到你的日历应用中（如 Google Calendar、Outlook 等）
 
 *以下内容为AI生成，不保证正确，仅供参考。*
