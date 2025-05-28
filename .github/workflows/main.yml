@@ -7,6 +7,22 @@ description: '定期运行 Python 脚本，从 YYSTV 获取游戏数据并更新
 author: 'xiyiji-official'  # 作者信息
 
 on:
+  workflow_dispatch:  # 允许手动触发
+    inputs:
+      logLevel:
+        description: '日志级别'
+        required: true
+        default: 'info'
+        type: choice
+        options:
+          - debug
+          - info
+          - warning
+          - error
+      commitMessage:
+        description: '提交信息'
+        required: false
+        default: 'Update calendar file'
   schedule:
     - cron: '0 0 * * *'  # 每天 UTC 0 点执行（可自定义时间）
 
