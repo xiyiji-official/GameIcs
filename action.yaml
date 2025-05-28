@@ -3,7 +3,8 @@
 
 
 name: Run Script Periodically
-
+description: '定期运行 Python 脚本，从 YYSTV 获取游戏数据并更新 my.ics 日历文件'  # 描述信息
+author: 'xiyiji-official'  # 作者信息
 
 on:
   schedule:
