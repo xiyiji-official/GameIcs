@@ -32,7 +32,8 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4 # 检出仓库代码
         with:
-          persist-credentials: false # 清除默认的只读令牌（可选）
+          token: ${{ secrets.GITHUB_TOKEN }}  # 使用内置令牌
+          persist-credentials: true # 保持凭据以便后续推送
 
       - name: Set up Python
         uses: actions/setup-python@v5 # 设置 Python 环境
@@ -58,3 +59,4 @@ jobs:
             git commit -m "更新文件"
             git push
           fi
+        shell: bash # 使用 Bash 执行命令
