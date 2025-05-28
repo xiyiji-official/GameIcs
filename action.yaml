@@ -1,0 +1,38 @@
+name: Run Script Periodically
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天 UTC 0 点执行（可自定义时间）
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest  # 使用最新的 Ubuntu 环境
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4  # 检出仓库代码
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5  # 设置 Python 环境
+        with:
+          python-version: '3.12'  # 指定 Python 版本
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt  # 安装脚本依赖
+          
+      - name: Run script
+        run: python main.py  # 执行你的脚本
+        
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add my.ics  # 添加生成的文件
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "更新文件"
+            git push
+          fi
