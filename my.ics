@@ -2,1263 +2,1263 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250322
-CATEGORIES:GameIcs
-DESCRIPTION:在《Urban Jungle》中，使用赏心悦目的植物让普通公寓焕发蓬勃绿意。在你的小公寓里为每株 ...\nPC \n独立 休闲 模拟 \n
-SUMMARY:我的小绿屋
-UID:4d9966a7-8974-41b2-9654-268450d9a5b5@4d99.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250404
-CATEGORIES:GameIcs
-DESCRIPTION:荣获300多项年度游戏奖之作，经过一系列技术性改良，推出全面增强的《The Last of Us ...\nPC PS5 \n冒险 动作 \n327.75
-SUMMARY:最后生还者：第二部 复刻版
-UID:bce5abd7-d628-44fb-a5e3-808c12c6713e@bce5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250826
-CATEGORIES:GameIcs
-DESCRIPTION:银河系最后的进攻力量。投入这款紧张刺激且疯狂的第三人称射击游戏，应征成为绝地潜兵，穿越战火肆虐的 ...\nPC PS5 Xbox Series X/S \n多人 射击 动作 \n198.00
-SUMMARY:绝地潜兵2
-UID:b8ea0525-8d14-4f4e-aecf-6ce8b8ad8d28@b8ea.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250305
-CATEGORIES:GameIcs
-DESCRIPTION:本作将于2025年3月5日登陆Steam。\n\n继《Kanon》后Key推出的第二款Windows ...\nPC Mobile NS PSV PSP PS2 DC \n视觉小说 文字 冒险 休闲 模拟 \n108.00
-SUMMARY:AIR
-UID:4a099a00-03dc-4473-8cc0-4c1762ff1f39@4a09.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250612
-CATEGORIES:GameIcs
-DESCRIPTION:人类的命运岌岌可危。地球为怪异而强大的生物所肆虐，惨遭遗弃。残存的人类余部已逃亡至位于外太空的拓 ...\nPC PS5 \n动作 角色扮演 \n268.00
-SUMMARY:剑星
-UID:57e70fb6-afed-4112-8bf4-bbbd5f79e654@57e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250725
-CATEGORIES:GameIcs
-DESCRIPTION:网络偶像伊丽丝被外星人绑架了！？ 伊丽丝被神秘飞碟掳走，陷入一场匪夷所思的密室逃脱游戏。 在这样 ...\nPC NS NS2 \n冒险 推理 视觉小说 \n
-SUMMARY:无法成眠的伊达键 - From AI：梦境档案
-UID:6793033d-0423-46b7-94fe-bd5e9ba24a6c@6793.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250324
-CATEGORIES:GameIcs
-DESCRIPTION:维罗亚这片和平大陆濒临战争，因为阿斯维利亚帝国谋求扩张——以你的家园为代价。指挥不可能的英雄，进 ...\nPC \n冒险 独立 角色扮演 策略 \n88.00
-SUMMARY:晦暗神祇2
-UID:36c5b3a8-9ad6-4b72-be39-f1cc1ecd583a@36c5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250602
-CATEGORIES:GameIcs
-DESCRIPTION:和同伴一起，利用颜色变换、三消射击和各式帮手，在充满未知的异世界里不断前进。此刻，你们将踏上奇妙 ...\nPC \n国产 多人 冒险 休闲 动作 \n66.00
-SUMMARY:泡姆泡姆
-UID:046efd5c-66e8-4b6b-97e2-aa770067c4f2@046e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250116
-CATEGORIES:GameIcs
-DESCRIPTION:“美德传奇f”变得更加绚丽、更加易于游玩后，再次问世！ 同时收录本篇之后的后日谈“迈向未来的系谱 ...\nPC PS4 Xbox One NS PS5 Xbox Series X/S \n动作 角色扮演 \n
-SUMMARY:圣恩传说f 复刻版
-UID:a879c415-bf47-404f-a0e7-ed9cbaeb5566@a879.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250605
-CATEGORIES:GameIcs
-DESCRIPTION:体验奇幻冒险与日常生活的 RPG《符文工房》系列最新作。 玩家可以在日常生活中种田、钓鱼和复兴村 ...\nPC NS \n冒险 动作 角色扮演 \n
-SUMMARY:符文工房 龙之天地
-UID:67ec1dae-4589-429e-a5a9-f8a04e776419@67ec.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250114
-CATEGORIES:GameIcs
-DESCRIPTION:《爱、互联网、杀人魔法》是一款Roguelike养成游戏。你将扮演某个因谋杀去世的主播的经纪人， ...\nPC \n类Rogue 视觉小说 恐怖 国产 独立 解谜 \n18.00
-SUMMARY:爱、互联网、杀人魔法
-UID:efaa43f8-9279-48fb-9fee-0c892773f81e@efaa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250218
-CATEGORIES:GameIcs
-DESCRIPTION:《宣誓》以《永恒之柱》系列中首次向玩家呈现的奇幻世界 Eora 为背景，它是一款第一人称奇幻角色 ...\nPC Xbox Series X/S \n角色扮演 \n
-SUMMARY:宣誓
-UID:c1ecb045-5458-43f1-b095-5735ef5c3cc0@c1ec.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-CATEGORIES:GameIcs
-DESCRIPTION:《留级生》是一款融合了ARPG和恋爱模拟元素的不良少女模拟器，你将扮演一名夜不归宿的另类女高中生 ...\nPC \n国产 独立 冒险 \n
-SUMMARY:不良少女：留级生
-UID:7574b43b-722d-4335-a62f-229c9e073ea1@7574.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250410
-CATEGORIES:GameIcs
-DESCRIPTION:是想带着自己的梦想平步青云，还是把别人的美梦统统碾碎在脚底？从有声电影曙光初现的时代开始，你将执 ...\nPC \n建造 模拟 策略 \n79.00
-SUMMARY:好莱坞动物
-UID:049cd982-d356-4afd-ad39-f244aff5954c@049c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250418
-CATEGORIES:GameIcs
-DESCRIPTION:「LUNAR: Silver Star Story」与「LUNAR 2: Eternal Blu ...\nPC PS4 NS \n冒险 角色扮演 \n
-SUMMARY:露娜 经典合辑
-UID:d8f7856b-e134-49fa-b941-8e7874ba5943@d8f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250327
-CATEGORIES:GameIcs
-DESCRIPTION:「“世界”，是一个可以找到真正心愿的地方。」 - 初音未来\n游戏讲述了五组热爱音乐的少年少女们误 ...\nMobile \n音乐 文字 \n
-SUMMARY:初音未来：缤纷舞台
-UID:4ae06bd5-6433-45cc-a883-c097af345066@4ae0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250325
-CATEGORIES:GameIcs
-DESCRIPTION:From small-time dope pusher to kingpin - manufac ...\nPC \n动作 独立 模拟 策略 多人 \n76.00
-SUMMARY:Schedule I
-UID:dcc0b54c-da06-4ad8-ab64-efde73e4092c@dcc0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250501
-CATEGORIES:GameIcs
-DESCRIPTION:《叛逆神魂》是个剧情向、视觉刺激系RPG。你将邂逅、联结执着游戏、绘画、编程等不同兴趣的“叛逆” ...\nPC \n独立 冒险 策略 角色扮演 国产 \n45.88
-SUMMARY:叛逆神魂
-UID:16e6210f-5d1e-4901-a366-d44b9c5897f7@16e6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250919
-CATEGORIES:GameIcs
-DESCRIPTION:剧情RPG“轨迹”系列在 2024 年迎来 20 周年。\n具有纪念性意义的系列首部作品《英雄传说 ...\nPC NS PS5 \n\n
-SUMMARY:空之轨迹 the 1st
-UID:65d0430d-9d05-4dd3-a8f7-0b03c6d6f1a4@65d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250327
-CATEGORIES:GameIcs
-DESCRIPTION:在文明濒临灭亡的遥远未来，人们追寻着【净地】的传说，聚集到最后的城市——海汶斯威尔。在这款后启示 ...\nPC PS5 \n冒险 动作 角色扮演 国产 独立 \n159.00
-SUMMARY:无限机兵
-UID:fde9cd1b-5ac3-4f1a-bd02-c38562abc930@fde9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250801
-CATEGORIES:GameIcs
-DESCRIPTION:警告：切勿外出。紧闭门户。拉紧窗帘。只允许人类进入。消灭所有“伪人”。一款关于末日偏执症的焦虑类 ...\nPC \n模拟 独立 恐怖 \n
-SUMMARY:寻找伪人
-UID:28b1d60f-01ee-430d-b586-6894014016ce@28b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251002
-CATEGORIES:GameIcs
-DESCRIPTION:公元1603年，羊蹄山麓。草甸、雪原、悄然而至的危险。笃的旅程由此展开。\nPS5 \n角色扮演 动作 \n467.75
-SUMMARY:羊蹄山之魂
-UID:75d98357-6c29-4c16-b9d9-3b1cdf6b0717@75d9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250404
-CATEGORIES:GameIcs
-DESCRIPTION:《不可撤离区》是一款融合了克苏鲁元素与撤离玩法的射击冒险游戏。你将引导“英勇就义”的步兵干员，潜 ...\nPC \n动作 冒险 生存 \n48.00
-SUMMARY:不可撤离区
-UID:ad09030a-55fa-4650-bd31-89703cdfc876@ad09.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250307
-CATEGORIES:GameIcs
-DESCRIPTION:在这款温馨的农场游戏中，你将经营自己的农场商店。照顾好你的动物和农场，将你的商品售卖给可爱的森林 ...\nPC PS4 NS PS5 Xbox Series X/S \n独立 休闲 模拟 \n66.00
-SUMMARY:甘露岛 - 温馨的农场商店
-UID:91b348d0-dab9-4842-8300-62de129a808e@91b3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250604
-CATEGORIES:GameIcs
-DESCRIPTION:玩家将控制一名与怪物一同生活在地表的人类──Kris，并与同班的怪物同学Susie和在旅途中遇到 ...\nPC PS4 NS PS5 NS2 \n角色扮演 独立 \n98.00
-SUMMARY:三角符文
-UID:16324f02-3f64-485b-b0f3-57c365cf169c@1632.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250610
-CATEGORIES:GameIcs
-DESCRIPTION:在《Dune: Awakening》这款大型多人生存游戏中从求生到实现壮举，并挑战帝国的力量。在 ...\nPC \n大型多人在线 生存 冒险 动作 角色扮演 \n160.00
-SUMMARY:沙丘：觉醒
-UID:0f1b1f73-e1c4-420a-b772-2d5bbe3e47c3@0f1b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-CATEGORIES:GameIcs
-DESCRIPTION:Ultimate Sheep Raccoon 是一款可以自定义赛道的自行车竞速派对游戏。挑战遍布 ...\nPC \n独立 多人 动作 竞速 休闲 \n
-SUMMARY:超级羊熊
-UID:f8f3ee72-577b-44ae-865d-c752ab43f0f1@f8f3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250716
-CATEGORIES:GameIcs
-DESCRIPTION:《全职猎人》首款正式对战格斗游戏登场！\n\n■ 3对3念能力组队对战\n本作是3vs3团队对决，\n角 ...\nPC NS PS5 \n动作 格斗 多人 \n
-SUMMARY:Hunter×Hunter Nen×Impact
-UID:9ec15604-ee04-425d-a7d6-ba6636d00fb9@9ec1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250311
-CATEGORIES:GameIcs
-DESCRIPTION:本游戏由曾推出《仁王》和《NINJA GAIDEN》的资深工作室Team NINJA精心打造。进 ...\nPC PS5 \n动作 角色扮演 \n248.00
-SUMMARY:浪人崛起
-UID:1824ccb7-3f5d-405e-84f3-931c17915840@1824.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250619
-CATEGORIES:GameIcs
-DESCRIPTION:“多来几条这样的笨鱼就好了...比狗还听话！”在首款情感反诈互动影游中，直面“捞女”的真实面目。 ...\nPC \n独立 冒险 策略 角色扮演 \n33.00
-SUMMARY:情感反诈模拟器
-UID:693ec677-c3ab-468a-a149-3cb7d6eac685@693e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250408
-CATEGORIES:GameIcs
-DESCRIPTION:《午夜以南》是由 Compulsion Games 倾力打造的一款全新动作冒险游戏。在这个现代版 ...\nPC Xbox Series X/S \n动作 冒险 \n198.00
-SUMMARY:午夜以南
-UID:6a80b950-6a9a-4d46-8363-be6124dbfe8c@6a80.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250221
-CATEGORIES:GameIcs
-DESCRIPTION:本作由真岛吾朗担任主角，是一款描绘《人中之龙８》之后故事的全新作品。 这次的舞台是岛屿，以及…… ...\nPC PS4 Xbox One PS5 Xbox Series X/S \n冒险 动作 角色扮演 \n268.00
-SUMMARY:如龙8外传：夏威夷海盗
-UID:22a2712a-40d5-4629-9b13-ca5153a0ad42@22a2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-CATEGORIES:GameIcs
-DESCRIPTION:Discover a vast\, haunted kingdom in Hollow Knigh ...\nPC NS \n冒险 独立 动作 \n
-SUMMARY:空洞骑士：丝之歌
-UID:a54b8605-b25c-4433-b5ed-1fa82a729eda@a54b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250820
-CATEGORIES:GameIcs
-DESCRIPTION:《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传 ...\nPC PS5 Xbox Series X/S \n国产 冒险 动作 角色扮演 \n245.40
-SUMMARY:黑神话：悟空
-UID:cfed5554-5ef0-4f91-aa33-462ddd330cef@cfed.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250205
-CATEGORIES:GameIcs
-DESCRIPTION:由《笼中窥梦》的团队倾情呈现，这是一场探索何为等待的新颖冒险，什么都不做就能轻松通关游戏。在从出 ...\nPC \n国产 独立 解谜 冒险 休闲 \n66.00
-SUMMARY:阿蛋等什么
-UID:75b9e05f-c72b-4144-8814-7765fe15ce30@75b9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251001
-CATEGORIES:GameIcs
-DESCRIPTION:你将扮演巫师，体验细节丰富的魔法学校和城镇生活。与同学和市民建立关系，通过上课和完成作业来发展你 ...\nPC \n独立 模拟 \n
-SUMMARY:Witchbrook
-UID:8dfea9b0-ec10-4972-9af8-34967f7f5865@8dfe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250220
-CATEGORIES:GameIcs
-DESCRIPTION:“黄游”是丸霸无双的新作，是一款无探索只刷怪的Roguelite平台动作游戏。这里有多种奇怪的敌 ...\nPC NS \n国产 独立 休闲 动作 \n38.00
-SUMMARY:黄老饼梦游惊奇
-UID:8a99f05f-9c50-4ec7-a220-0b3c8268ad0b@8a99.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250417
-CATEGORIES:GameIcs
-DESCRIPTION:玩家将以第一视角，扮演一名高中辍学的女孩，她被迫进入注塑厂打工。后来，她通过一款网络游戏，认识了 ...\nPC \n视觉小说 国产 独立 休闲 角色扮演 \n
-SUMMARY:锈翅 逃离我的家乡
-UID:1570c30a-c8e8-446e-8065-b0d1830aa7d9@1570.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250228
-CATEGORIES:GameIcs
-DESCRIPTION:狂野凶猛的大自然，袭来。\n\n时刻都在动态变化的原野。\n这是个关于生活在具有两面性的世界中的怪物与 ...\nPC PS5 Xbox Series X/S \n动作 角色扮演 冒险 \n368.00
-SUMMARY:怪物猎人：荒野
-UID:7249c0c7-330c-41fb-b7be-e489fcb76ce8@7249.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250109
-CATEGORIES:GameIcs
-DESCRIPTION:这是一场成年人关于爱和意义的现代冒险。重返2011年的麻园，敲击面前的键盘：与人建立联系、成为别 ...\nPC \n视觉小说 国产 独立 冒险 模拟 \n52.00
-SUMMARY:S4U：都市朋克2011与爱的重拳
-UID:5855cb4b-8f45-492c-b12b-d49ba38704ce@5855.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250410
-CATEGORIES:GameIcs
-DESCRIPTION:——如果维持存在只能依靠他人的视线。『Girls Made Pudding -少女布丁旅情-』是 ...\nPC NS \n视觉小说 冒险 \n42.00
-SUMMARY:少女布丁旅情
-UID:1b9024f7-a183-45a5-bd11-ecbc18ae2b1c@1b90.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-CATEGORIES:GameIcs
-DESCRIPTION:「残音系少年少女」是一部多结局解谜冒险ADV。一群失去记忆的少年少女将会 设法逃出将人们囚禁在心 ...\nPC \n视觉小说 解谜 冒险 \n
-SUMMARY:残音系少年少女
-UID:495352cf-efe1-4ed8-a345-4f8340133e1c@4953.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250718
-CATEGORIES:GameIcs
-DESCRIPTION:你将扮演狐狸记者托马斯，在严酷的监狱中生存、探索和逃脱。努力收集证据，洗清冤屈。结交个性十足的囚 ...\nPC \n独立 冒险 推理 国产 模拟 策略 角色扮演 \n78.00
-SUMMARY:动物迷城
-UID:eb16a953-48c5-4ee8-9ba5-8d6ade5f2fc0@eb16.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250331
-CATEGORIES:GameIcs
-DESCRIPTION:苏丹被黑魔法师蛊惑，命令你和他玩一个残酷的游戏。每周你必须从四种特殊的卡片中抽一张：纵欲卡需要你 ...\nPC \n卡牌 国产 独立 冒险 模拟 策略 角色扮演 \n80.00
-SUMMARY:苏丹的游戏
-UID:f8970647-6ee6-4f5c-9be6-1eefe8e06723@f897.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250301
-CATEGORIES:GameIcs
-DESCRIPTION:《Parallel Rift》是一款四维解谜游戏，玩家需要沿着W轴穿越相连的空间，最终抵达终点。 ...\nPC \n冒险 独立 动作 解谜 \n
-SUMMARY:Parallel Rift
-UID:10e0c04b-29f2-4782-8fab-d29223fcd3ba@10e0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250924
-CATEGORIES:GameIcs
-DESCRIPTION:在Bungie推出的团队撤离射击游戏中，搜寻天仓五IV的失落殖民地。选择你的疾行者，即具有独特能 ...\nPC PS5 Xbox Series X/S \n动作 多人 射击 \n
-SUMMARY:失落星船：马拉松
-UID:647fd3e9-e1c2-464a-be22-f380d957f1df@647f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-CATEGORIES:GameIcs
-DESCRIPTION:末日将近，您将立身于一个弥漫诡异与绝望的双面宇宙，领导残存的力量对抗来自异界的威胁：打造特遣队， ...\nPC \n独立 角色扮演 策略 \n
-SUMMARY:断面寄生：二元突破
-UID:621b88a3-2e2c-4892-801d-9b4335459cc6@621b.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250324
 CATEGORIES:GameIcs
 DESCRIPTION:《辐射小马国：废墟》是一款硬核动作RPG游戏，融合了横板过关、2D射击和 Roguelike 元 ...\nPC \n独立 类Rogue 冒险 角色扮演 免费开玩 \n
 SUMMARY:辐射小马国：废墟
-UID:2b155789-a362-40fd-9d6c-2b97abc97820@2b15.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250423
-CATEGORIES:GameIcs
-DESCRIPTION:《Dolls Nest》是一款可以由玩家自定义机甲少女，探索废墟世界的自定义3D动作类游戏。 玩 ...\nPC \n动作 \n
-SUMMARY:Dolls Nest
-UID:10695300-95f5-4e1b-ae29-55e98e708659@1069.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250401
-CATEGORIES:GameIcs
-DESCRIPTION:告别摇人烦恼，20+经典职业自动拼团！实时监控数据，自由定义团队，多维构筑成长，征服强力副本！  ...\nPC \n模拟 独立 角色扮演 休闲 放置 \n22.00
-SUMMARY:放置拼好团
-UID:2fe179b2-4db8-46a5-b850-847b4ac1c8d6@2fe1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250417
-CATEGORIES:GameIcs
-DESCRIPTION:在这款第一人称单人冒险游戏中，探索历史上最伟大的谜团之一吧。1937年，平静的世界下波涛暗涌，邪 ...\nPC PS5 Xbox Series X/S \n冒险 动作 \n349.00
-SUMMARY:夺宝奇兵：古老之圈
-UID:7a819c53-46e8-4a5c-a1c7-84e6bbe4b611@7a81.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250915
-CATEGORIES:GameIcs
-DESCRIPTION:穿梭异世界，打造属于偶像的「圣地」！ 偶像×模拟城镇游戏！ 与可爱的偶像们一同打造专属的「粉丝圣 ...\nPC NS \n冒险 独立 模拟 \n
-SUMMARY:偶像传奇！闪耀再临
-UID:5b517f11-2bcc-4209-b841-cb8c805ca56c@5b51.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250630
-CATEGORIES:GameIcs
-DESCRIPTION:《DRAPLINE》是一款养成类Roguelite游戏，你需要将某天捡到的饥饿小龙培养成最强大的 ...\nPC \n独立 冒险 模拟 角色扮演 \n42.00
-SUMMARY:Drapline
-UID:41889dd8-51ab-41ae-9fa6-01af259c266c@4188.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250427
-CATEGORIES:GameIcs
-DESCRIPTION:最多支持4人对战的动作游戏！运用多样武器与忍术，生存到最后，成为「忍者之神」吧！\nPC \n动作 独立 多人 休闲 \n22.00
-SUMMARY:忍者大乱斗！
-UID:65bc761a-3854-4f7e-bb81-3d427f91df53@65bc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250220
-CATEGORIES:GameIcs
-DESCRIPTION:《TRIBE NINE》是一款生死一线×动作RPG。 玩家在无数次死亡中摸索攻略，进而战胜强敌。 ...\nPC Mobile \n免费开玩 动作 角色扮演 \n
-SUMMARY:TRIBE NINE：战极死游
-UID:ce68a341-0694-4a49-85f4-7ca88731f212@ce68.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250725
-CATEGORIES:GameIcs
-DESCRIPTION:Ratatan是一款融合了节奏跟横轴动作，可以最多四人一起合作的Roguelike节奏动作游戏。 ...\nPC PS4 NS PS5 Xbox Series X/S \n类Rogue 独立 音乐 冒险 休闲 动作 角色扮演 \n
-SUMMARY:啦嗒铛
-UID:1208871f-cce9-4f9d-bcea-7d4775bae0b6@1208.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-CATEGORIES:GameIcs
-DESCRIPTION:《冲就完事模拟器》强势回归，带来崭新地点、登峰“皂”极的清洁设备和亮点四射的特色玩法。无论是独自 ...\nPC PS5 Xbox Series X/S \n休闲 模拟 多人 \n
-SUMMARY:冲就完事模拟器2
-UID:8961c471-fdd9-4c84-b438-fb85e293c72e@8961.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-CATEGORIES:GameIcs
-DESCRIPTION:独自从失忆中睁开双眼的少年陷入了一个未知的黑暗梦境，《雾都残梦:心域突围》是一款结合超现实主义叙 ...\nPC Xbox Series X/S \n动作 角色扮演 冒险 独立 \n
-SUMMARY:雾都残梦：心域突围
-UID:2b455fdf-6959-41bf-9c00-8e0633b56e68@2b45.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250321
-CATEGORIES:GameIcs
-DESCRIPTION:让所有可游玩角色觉醒，并在极限状况下展开逆转对决， 体验“BLEACH”的“一击必杀”的戏剧性对 ...\nPC PS5 Xbox Series X/S \n格斗 多人 动作 \n298.00
-SUMMARY:死神：魂魄觉醒
-UID:8051c438-be26-4b33-95fd-81750b848d29@8051.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250211
-CATEGORIES:GameIcs
-DESCRIPTION:屡获殊荣的策略游戏系列回归，翻开革命性新篇章。 《席德·梅尔的文明VII》让你能够建立世界上前所 ...\nPC PS4 Xbox One NS PS5 Xbox Series X/S \n模拟 策略 多人 \n298.00
-SUMMARY:文明7
-UID:a57a90e1-1993-4484-99a9-6c3fd462d8fe@a57a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250131
-CATEGORIES:GameIcs
-DESCRIPTION:城市遭到围困！\n\n彼得·帕克与迈尔斯·墨拉莱斯这两名蜘蛛侠必须对抗残暴的毒液以及凶险的新共生体威 ...\nPC PS5 \n冒险 动作 \n398.00
-SUMMARY:漫威蜘蛛侠2
-UID:99f02752-9265-4410-af18-585ea39f3736@99f0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250702
-CATEGORIES:GameIcs
-DESCRIPTION:《解限机》是一款近未来科幻机甲主题的动作射击对战游戏。化身为不可阻挡的王牌驾驶员，与战友们一同驾 ...\nPC Xbox Series X/S \n大型多人在线 国产 动作 \n
-SUMMARY:解限机
-UID:39cda402-8a03-4c9a-8af1-e42f5e88ff7b@39cd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250122
-CATEGORIES:GameIcs
-DESCRIPTION:导力革命之父C·爱普斯泰恩博士预言了塞姆利亚大陆的末日——\n眼看着预言中的关键日期已日益逼近，建 ...\nPC PS4 PS5 \n角色扮演 \n328.00
-SUMMARY:英雄传说：界之轨迹 -告别塞姆利亚-
-UID:139cfc07-5e06-4e90-9263-9147927a81b4@139c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250822
-CATEGORIES:GameIcs
-DESCRIPTION:《消逝的光芒：困兽》是险象环生的丧尸世界中的一场独立冒险，故事背景设定在一个精心打造的乡村地区。 ...\nPC PS5 Xbox Series X/S \n动作 角色扮演 \n248.00
-SUMMARY:消逝的光芒：困兽
-UID:764fd8e9-a995-45b0-9f1e-3862a5b051bf@764f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250925
-CATEGORIES:GameIcs
-DESCRIPTION:主人公是居住在群山环绕的日本乡村小镇·戎之丘的高中生·深水雏子。 她的日常生活因为神秘白色“怪物 ...\nPC PS5 Xbox Series X/S \n动作 恐怖 冒险 \n391.00
-SUMMARY:寂静岭f
-UID:e46ab311-7bc9-4031-877b-706b200553fa@e46a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250626
-CATEGORIES:GameIcs
-DESCRIPTION:AQUAPLUS推出的“温暖人心的校园恋爱游戏”将以高清全3D形式焕新归来！\n\n春天近在眼前。\n ...\nPC NS \n冒险 视觉小说 模拟 \n
-SUMMARY:ToHeart：重制版
-UID:d35276c5-f46c-42c7-93f8-e6cb4fb74d97@d352.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250426
-CATEGORIES:GameIcs
-DESCRIPTION:搭建桥梁，盖成高塔，改造地形，为飞行器注入燃料……屡获殊荣的《粘粘世界》推出了一款让人叹为观止的 ...\nPC NS \n冒险 休闲 独立 解谜 \n
-SUMMARY:粘粘世界2
-UID:4e6f69f4-e2a2-4bbd-95cd-ecd36db4b637@4e6f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250213
-CATEGORIES:GameIcs
-DESCRIPTION:号令名垂青史的各路一骑当千之英豪，挑战蜂拥而至的敌人。积累胜与败的经验，突破地狱的难关吧。\n\n■ ...\nPC PS4 NS PS5 Xbox Series X/S \n动作 角色扮演 类Rogue \n163.05
-SUMMARY:无双深渊
-UID:9e534039-be18-48e8-bab2-cc3784c1aba4@9e53.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250424
-CATEGORIES:GameIcs
-DESCRIPTION:“极限×绝望”！惊心动魄的ADV！某一天，“澄野拓海”等15名学生突然被召集到“最终防卫学园”， ...\nPC NS \n冒险 模拟 视觉小说 \n238.00
-SUMMARY:百日战纪-最终防卫学园-
-UID:a3bb045b-e4bd-4dc3-9dd1-40fae0946e04@a3bb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250124
-CATEGORIES:GameIcs
-DESCRIPTION:「奇异贤伴 爱达之歌」是款让玩家驾驶机人，成为以搜集稀有资源「橙珀结晶」为业的漂泊者。与贤士搭档 ...\nPC PS5 Xbox Series X/S \n多人 射击 动作 \n198.00
-SUMMARY:奇异贤伴：爱达之歌
-UID:a93e0ad7-f754-41f2-897c-77c19b354329@a93e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250120
-CATEGORIES:GameIcs
-DESCRIPTION:《青天井》是一款以麻将为主题的卡牌roguelike游戏。踏入「青天井」，使用源自世界各地麻将风 ...\nPC \n休闲 独立 模拟 策略 类Rogue 国产 \n45.00
-SUMMARY:青天井
-UID:dfc0389c-76b9-4ab2-9265-3495b08a822e@dfc0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250630
-CATEGORIES:GameIcs
-DESCRIPTION:Rediscover the classic combat charm of "Little F ...\nPC \n独立 国产 格斗 多人 动作 \n
-SUMMARY:小朋友齐打交2 复刻版
-UID:6aa7bf65-0437-4010-be5c-b895d8a71fdc@6aa7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250828
-CATEGORIES:GameIcs
-DESCRIPTION:维持原作体验核心的同时，更加进化的沉浸体验。 以2004年推出的「METAL GEAR SOLI ...\nPC PS5 Xbox Series X/S \n动作 \n409.00
-SUMMARY:合金装备Δ：食蛇者
-UID:85729527-6b54-487c-a34d-b9bb15f64db8@8572.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250114
-CATEGORIES:GameIcs
-DESCRIPTION:《三相奇谈》的故事发生在一个幻想中的东方世界。数千年的繁荣时代早已落幕，人、妖怪、龙族混居的青龙 ...\nPC \n国产 冒险 独立 解谜 \n54.00
-SUMMARY:三相奇谈
-UID:78aec59d-8f2a-4ad1-a3f6-6a02ac762a56@78ae.org
+UID:e4bf765f-da02-46c1-b930-38662b7c42d2@e4bf.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250424
 CATEGORIES:GameIcs
 DESCRIPTION:率领第33号远征队踏上消灭丹青师的任务，竭尽全力阻止涂抹死亡的笔刷。探索灵感来源于19世纪末“流 ...\nPC PS5 Xbox Series X/S \n动作 角色扮演 \n218.00
 SUMMARY:光与影：33号远征队
-UID:53e9f88c-2667-4bd6-86c0-b47f7ad5b56d@53e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250530
-CATEGORIES:GameIcs
-DESCRIPTION:《艾尔登法环 黑夜君临》（ELDEN RING NIGHTREIGN）为基于《艾尔登法环》（EL ...\nPC PS5 Xbox Series X/S \n多人 动作 角色扮演 \n
-SUMMARY:艾尔登法环：黑夜君临
-UID:7ee1518b-c881-4cce-91b7-00b613553742@7ee1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250311
-CATEGORIES:GameIcs
-DESCRIPTION:《啵啵鸡物语》是一款模拟类Roguelite类 RPG游戏，玩家需要挽救一家陷入困境的波霸奶茶店 ...\nPC \n类Rogue 国产 独立 模拟 动作 角色扮演 \n
-SUMMARY:啵啵鸡物语
-UID:0ef28264-fceb-49c2-8167-b77c344b4d8a@0ef2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250118
-CATEGORIES:GameIcs
-DESCRIPTION:《光明记忆：无限》国内游戏开发者"飞燕群岛"最新作品。2036年世界各地的天空上突然出现了异象， ...\nPC Mobile Xbox One Xbox Series X/S \n国产 独立 射击 动作 \n48.00
-SUMMARY:光明记忆：无限
-UID:52308e41-fa60-4c42-850a-9b005b6fd5d3@5230.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250131
-CATEGORIES:GameIcs
-DESCRIPTION:游走在行将崩溃的星系边缘，体验叛逃仿生人的人生。你拖着一副残躯，头上悬着赏金，脑内却全无过去的记 ...\nPC NS PS5 Xbox Series X/S \n冒险 角色扮演 独立 \n92.00
-SUMMARY:深空梦里人2：逐星之旅
-UID:ef7d8af2-6db2-4b58-a159-2ccd5c301a23@ef7d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250521
-CATEGORIES:GameIcs
-DESCRIPTION:《怪物火车》续作归来，准备好迎接全新氏族、敌对派系、挑战、模式以及更多！感受享誉盛名的rogue ...\nPC NS PS5 Xbox Series X/S \n卡牌 类Rogue 独立 策略 \n
-SUMMARY:怪物火车2
-UID:1c99912d-4767-4dc7-bd90-3beeab0f9e37@1c99.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250423
-CATEGORIES:GameIcs
-DESCRIPTION:大家好呀！准备好开启全新的美好 Dinkum 生活。在野性十足的澳洲小岛上建设属于自己的小镇。参 ...\nPC \n独立 模拟 角色扮演 \n70.00
-SUMMARY:金垦小镇
-UID:0648e4ab-8615-4353-bc59-d98b4a39849d@0648.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251010
-CATEGORIES:GameIcs
-DESCRIPTION:在《小小梦魇》独特的世界观中踏上全新的冒险旅途。 在《小小梦魇3》中，你将循着 Low 以及Al ...\nPC PS4 Xbox One NS PS5 Xbox Series X/S \n恐怖 多人 解谜 冒险 \n196.00
-SUMMARY:小小梦魇3
-UID:e0d121fb-9d0a-4ece-8d46-971d1e7ffa95@e0d1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250410
-CATEGORIES:GameIcs
-DESCRIPTION:1980年，德克萨斯州。沃尔顿市陷入了丧尸大爆发之中。玩家要带领一群绝望的幸存者从一个避难所迁往 ...\nPC \n生存 恐怖 模拟 策略 动作 \n86.00
-SUMMARY:勇闯死人谷：暗黑之日
-UID:e168306c-6324-414e-b9b9-d1021150f7dc@e168.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250321
-CATEGORIES:GameIcs
-DESCRIPTION:在这款集资源管理、攻城防御和探索于一体的即时战略游戏中，设计并一砖一瓦地建造你的堡垒，对抗无尽的 ...\nPC \n模拟 策略 \n99.00
-SUMMARY:灾厄堡垒
-UID:5ae28d3e-3c83-44d4-8337-07fb7cf3049a@5ae2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250417
-CATEGORIES:GameIcs
-DESCRIPTION:在人类离弃地球数千年后，兔子们主宰了这个世界... Stamp\, 一个拥有年迈灵魂的可爱兔子，驾 ...\nPC NS PS5 \n动作 \n
-SUMMARY:锈兔异途
-UID:f80f9e35-5f1a-47a4-8957-1843ff9d625f@f80f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250827
-CATEGORIES:GameIcs
-DESCRIPTION:是引领伙伴的“领导者”——抑或是操控一切的“支配者”？《暗徒誓约》是一款校园RPG，通过与在“自 ...\nPC NS PS5 \n角色扮演 \n
-SUMMARY:暗徒誓约
-UID:e25daaaf-9710-4267-849f-57a3256a8bb5@e25d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250206
-CATEGORIES:GameIcs
-DESCRIPTION:NecroDancer 系列全新节奏游戏续作，震撼归来！意外落入怪异新世界的凯登丝，不得不拿起乐 ...\nPC NS \n独立 动作 角色扮演 \n
-SUMMARY:节奏裂隙
-UID:cd51f2cd-c18e-470f-8312-f3caf65cdbb7@cd51.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250214
-CATEGORIES:GameIcs
-DESCRIPTION:一款全粤语配音的恐怖剧情游戏，你将作为一位保安员，探索一幢猛鬼的大楼，了解传说中的极凶恶鬼"辫子 ...\nPC \n国产 冒险 独立 视觉小说 恐怖 解谜 \n38.00
-SUMMARY:猛鬼大厦2
-UID:23c799ff-7365-46bd-b853-ffa07bb952fd@23c7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250828
-CATEGORIES:GameIcs
-DESCRIPTION:《牧场物语》系列最新作登场！故事的舞台是微风吹拂的小镇“煦风镇”。你可以悉心经营牧场，种植农作物 ...\nPC NS NS2 \n休闲 模拟 \n
-SUMMARY:牧场物语 来吧！风之繁华集市
-UID:236991c9-894c-4161-9116-90376f7b64c7@2369.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250107
-CATEGORIES:GameIcs
-DESCRIPTION:进入蒸汽和糖的世界，在Chocolate Factory Simulator游戏中成为巧克力大师 ...\nPC \n独立 冒险 休闲 模拟 动作 \n
-SUMMARY:巧克力工厂模拟器
-UID:216e5667-f562-4684-9b5b-69309f2160b9@216e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250327
-CATEGORIES:GameIcs
-DESCRIPTION:日本最具影响力的角色之一“吉伊”作为手机游戏登场！\n“吉伊”曾于『日本角色大赏2022』、『日本 ...\nMobile \n角色扮演 \n
-SUMMARY:口袋吉伊卡哇
-UID:11473bfb-6c70-4d3a-aff7-5df5dc923c04@1147.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-CATEGORIES:GameIcs
-DESCRIPTION:体验无畏冒险家和精明商人的双重人生！沉浸进一个生机勃勃的鲜活世界，那里既有闪亮耀眼的战利品，也有 ...\nPC \n类Rogue 冒险 动作 角色扮演 \n
-SUMMARY:夜勤人2：无尽宝库
-UID:8edbd97a-7931-4095-8884-97010391a730@8edb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250205
-CATEGORIES:GameIcs
-DESCRIPTION:走进 15 世纪的欧洲，体验丰富多彩的开放世界，畅玩这款精彩的叙事驱动型角色扮演游戏，开启究极中 ...\nPC PS5 Xbox Series X/S \n冒险 动作 角色扮演 \n228.00
-SUMMARY:天国：拯救2
-UID:0a9cc0be-625e-4dd8-af93-c71536507ea5@0a9c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250508
-CATEGORIES:GameIcs
-DESCRIPTION:《Creature Keeper》是一款怪物驯化游戏，让你与交好的生物并肩实时战斗。将你喜爱的生 ...\nPC \n独立 冒险 动作 角色扮演 \n
-SUMMARY:生物驯养师
-UID:c799edfa-cf41-41fe-8373-31e630c07b2d@c799.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-CATEGORIES:GameIcs
-DESCRIPTION:经营一个动物们光顾的澡堂吧！《动物温泉》是一款轻松的模拟游戏，可以在屏幕底部一边完成其他任务一边 ...\nPC \n休闲 独立 模拟 放置 \n
-SUMMARY:动物温泉（2025）
-UID:3e862ebc-cb40-4b6a-b857-2758f0200589@3e86.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-CATEGORIES:GameIcs
-DESCRIPTION:在审判日结束后的开放世界中扮演幸存者，独自奋战或携手合作来搜寻资源，为人类建立行动基地。但你并非 ...\nPC PS5 Xbox Series X/S \n冒险 动作 角色扮演 \n
-SUMMARY:终结者：幸存者
-UID:918e2270-e2ff-4d0d-8c4a-192f3511ceeb@918e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250117
-CATEGORIES:GameIcs
-DESCRIPTION:如临真实战场迎战千军万马，畅享爽快的一骑当千动作！“无名英雄”携手三国英杰们闯荡乱世的‘真・三国 ...\nPC PS5 Xbox Series X/S \n动作 策略 角色扮演 \n349.00
-SUMMARY:真·三国无双 起源
-UID:afe54422-f169-484e-a70e-11304b727c76@afe5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251030
-CATEGORIES:GameIcs
-DESCRIPTION:《晕晕电波症候群》是一款节奏冒险游戏。某个家里蹲少女吸食电波歌曲后上网激情输出萌萌怪文书，嗨翻天 ...\nPC \n独立 模拟 \n
-SUMMARY:晕晕电波症候群
-UID:e12a3803-ffc2-44d6-80f9-21ee14b6d65f@e12a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250107
-CATEGORIES:GameIcs
-DESCRIPTION:通过捕鱼拯救世界！ 这是一款全新的动作 RPG 游戏，你将置身于一个广阔的像素世界中，冒险捕捞这 ...\nPC \n独立 冒险 动作 角色扮演 \n
-SUMMARY:海洋幻想
-UID:393d98b7-2bc5-4e66-a1d8-abf515e92613@393d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-CATEGORIES:GameIcs
-DESCRIPTION:《The First Berserker: Khazan》是一款硬核动作角色扮演类游戏。玩家在游 ...\nPC PS5 Xbox Series X/S \n冒险 动作 角色扮演 类魂 \n
-SUMMARY:The First Berserker: Khazan
-UID:d98cb1fd-0aef-48fa-afe0-06614da6d616@d98c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250423
-CATEGORIES:GameIcs
-DESCRIPTION:《Sunderfolk》是一款共享式回合制战术 RPG 冒险游戏，可以将您的手机当作控制器来用。 ...\nPC NS PS5 Xbox Series X/S \n角色扮演 策略 \n248.00
-SUMMARY:破碎族裔
-UID:7dddcf5e-8029-4e9e-b687-3d24c3345575@7ddd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250213
-CATEGORIES:GameIcs
-DESCRIPTION:诅咒之盒、凶宅、异界……“都市传说解体中心”负责调查/回收各种诅咒之物和怪异现象，并揭破“都市传 ...\nPC NS PS5 \n推理 视觉小说 恐怖 冒险 \n
-SUMMARY:都市传说解体中心
-UID:fbc81223-c2fc-48af-9849-65061741f465@fbc8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250410
-CATEGORIES:GameIcs
-DESCRIPTION:欢迎来到霍利山庄，每逢破晓时分，此处便有奥秘浮出水面。穿梭于变幻莫测的走廊与房间，体验独树一帜的 ...\nPC \n独立 策略 冒险 \n108.00
-SUMMARY:蓝途王子
-UID:abe481a0-174b-4eaa-a5a3-780ed8a8d5c4@abe4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250424
-CATEGORIES:GameIcs
-DESCRIPTION:名侦探·金田一耕助第一案“本阵杀人事件”。在位于冈山县的旧本阵后裔一柳家的偏院内，刚举办完婚礼的 ...\nPC NS \n冒险 休闲 视觉小说 推理 \n52.00
-SUMMARY:金田一耕助系列 本阵杀人事件
-UID:28ac6e26-6f13-4a7f-904f-6992cca7e160@28ac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251113
-CATEGORIES:GameIcs
-DESCRIPTION:来自屡获殊荣的《纪元》系列：在公元 117 年打造罗马帝国。 你会鼓励经济增长，还是通过强权扩大 ...\nPC PS5 Xbox Series X/S \n策略 模拟 \n
-SUMMARY:纪元117：罗马和平
-UID:297145ed-8f85-4969-9288-bc28a7072443@2971.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250410
-CATEGORIES:GameIcs
-DESCRIPTION:“要么爷死，要么魔女亡。来场不是深渊就是巅峰的死亡对决！” 濑名原Asuha，自封稀世天才赌徒。 ...\nPC \n卡牌 视觉小说 独立 冒险 角色扮演 \n59.00
-SUMMARY:深渊绝赌：千王处刑
-UID:df1b01cd-222a-488e-92bf-852786553a18@df1b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250724
-CATEGORIES:GameIcs
-DESCRIPTION:明末：渊虚之羽是一款类魂动作角色扮演游戏，故事发生在巴蜀之地，此时正值黑暗动荡的明末，战事四起， ...\nPC Xbox Series X/S \n类魂 冒险 动作 角色扮演 国产 \n248.00
-SUMMARY:明末：渊虚之羽
-UID:55804f66-1e48-450c-ba0c-d83de3404949@5580.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250123
-CATEGORIES:GameIcs
-DESCRIPTION:位置于最先端的【罪恶装备 -GUILTY GEAR-】系列，最新作品【GUILTY GEAR - ...\nPC PS4 Xbox One NS PS5 Xbox Series X/S \n格斗 动作 \n218.00
-SUMMARY:罪恶装备：奋战
-UID:a69bcfcc-2558-4720-ae89-5ffedb0650e3@a69b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250425
-CATEGORIES:GameIcs
-DESCRIPTION:游戏将回归多人约会模拟模式，你可以在6位性感魔物中寻找约会对象。\nPC \n视觉小说 独立 休闲 模拟 策略 \n58.00
-SUMMARY:魔物学园4：魔物庆典
-UID:9adf22c2-3b18-4762-8d1e-925404401458@9adf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250306
-CATEGORIES:GameIcs
-DESCRIPTION:随着108位伙伴，少年的命运开始转动- KONAMI经典名作RPG『Suikoden I』＆『S ...\nPC PS4 Xbox One NS PS5 Xbox Series X/S \n角色扮演 \n168.00
-SUMMARY:幻想水浒传1&2 高清复刻合集
-UID:ad28d839-79cf-4614-995f-09c3a6b8ccc0@ad28.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250501
-CATEGORIES:GameIcs
-DESCRIPTION:魔女之子海珂将踏上旅程！在禁忌之地进行冒险的2D像素俯视角动作RPG游戏。在旅途的空档，通过露营 ...\nPC NS PS5 \n动作 角色扮演 休闲 \n
-SUMMARY:HYKE：北极光
-UID:d6891f5a-4abf-4f59-93f7-ffba0bef11ce@d689.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250619
-CATEGORIES:GameIcs
-DESCRIPTION:《妖之乡》是一款东方奇幻的怪物收集RPG冒险游戏。你将作为御妖师探索太古大陆，邂逅丰富多样的妖精 ...\nPC \n国产 独立 冒险 休闲 模拟 策略 角色扮演 \n58.00
-SUMMARY:妖之乡
-UID:4a1c1a71-9b97-4727-82bf-219b2f672a14@4a1c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250731
-CATEGORIES:GameIcs
-DESCRIPTION:《NINJA GAIDEN：怒之羁绊》是以红白机《忍者龙剑传》为灵感的系列的全新横版卷轴作品，由 ...\nPC NS PS5 Xbox Series X/S \n独立 冒险 动作 \n
-SUMMARY:忍者外传：怒之羁绊
-UID:33309ad5-66cf-4631-9a09-c0bbb8d6c02b@3330.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-CATEGORIES:GameIcs
-DESCRIPTION:《雷顿教授》最新作，故事发生在《最后的时光之旅》一年后，雷顿教授一行来到了美国。\nNS \n冒险 \n
-SUMMARY:雷顿教授与蒸汽新世界
-UID:8a77992d-c2ef-46a8-8290-ebef6bb621b4@8a77.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250123
-CATEGORIES:GameIcs
-DESCRIPTION:距《ENDER LILIES》的死亡之雨灾难数十年后， 失控的“人造生命体”带来了毁灭性的破坏。 ...\nPC PS4 Xbox One NS PS5 Xbox Series X/S \n类银河战士恶魔城 动作 角色扮演 \n78.00
-SUMMARY:终焉之玛格诺利亚：雾中盛放之花
-UID:cc299404-5399-4c84-be3f-b7660d7fd42c@cc29.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-CATEGORIES:GameIcs
-DESCRIPTION:《昭和米国物语》是一款向80年代流行文化致敬、以浓烈B级片风格呈现的全新RPG作品；见证少女“蝶 ...\nPC PS4 PS5 \n国产 独立 冒险 动作 角色扮演 \n
-SUMMARY:昭和米国物语
-UID:fd05c9aa-0145-4a6d-b24e-beafa396f161@fd05.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-CATEGORIES:GameIcs
-DESCRIPTION:《仙乡小千金》是一款东方仙侠题材的多结局养成游戏。您将扮演一位父亲或母亲，在这片钟灵毓秀的世外桃 ...\nPC \n国产 独立 冒险 休闲 模拟 角色扮演 \n
-SUMMARY:仙乡小千金
-UID:015f6018-c950-4de7-8463-029870cb27dc@015f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-CATEGORIES:GameIcs
-DESCRIPTION:与私家侦探杰克·佩珀一起，投身一场弹雨连天、爵士绕梁的冒险。《神探杰克鼠》将1930年代的经典手 ...\nPC \n动作 独立 射击 \n
-SUMMARY:神探杰克鼠
-UID:2d4bbe03-f70c-4c1c-b657-8a94c440718c@2d4b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250422
-CATEGORIES:GameIcs
-DESCRIPTION:《万手一体》是一款实景拼贴风格的怪奇卡牌冒险游戏，通过创意卡牌玩法找到隐藏在这疯狂世界后的真相。 ...\nPC \n卡牌 国产 独立 冒险 休闲 策略 角色扮演 \n68.00
-SUMMARY:万手一体
-UID:83421710-8fd8-4f40-a624-bd7e30382909@8342.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250619
-CATEGORIES:GameIcs
-DESCRIPTION:《Rematch》是一款多人在线足球游戏。 从沉浸式第三人称的视角中，控制队伍中的一名球员，并投 ...\nPC PS5 Xbox Series X/S \n动作 独立 体育 多人 \n108.00
-SUMMARY:开球
-UID:b1b0dac2-d90f-4a13-94ba-4d185ac29275@b1b0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250218
-CATEGORIES:GameIcs
-DESCRIPTION:踏上《奇异人生》创作者的全新叙事之旅。拍摄1995年的夏天，与新朋友一起创造终生难忘的回忆。27 ...\nPC PS5 Xbox Series X/S \n独立 冒险 \n
-SUMMARY:Lost Records: Bloom & Rage
-UID:ec90d8b9-3857-41f1-a01f-ce09d401729c@ec90.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250104
-CATEGORIES:GameIcs
-DESCRIPTION:CraftCraft是一款手工艺经商模拟RPG。为人鱼公主制作一条精美的项链，或是献上一把龙血铸 ...\nPC \n独立 休闲 模拟 角色扮演 \n
-SUMMARY:奇巧匠：手工经商模拟
-UID:fcdf74d7-0964-4b5d-a2cb-60156c3967ac@fcdf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250423
-CATEGORIES:GameIcs
-DESCRIPTION:反乌托邦游戏《旁观者》系列衍生作，玩家需要仔细监视车厢中的每个乘客，报告他们的可疑活动及违禁行为 ...\nPC \n冒险 模拟 策略 \n
-SUMMARY:旁观者：列车长
-UID:039f9d0f-b19f-443c-92ee-e8230428a5ea@039f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250806
-CATEGORIES:GameIcs
-DESCRIPTION:以“羁绊”之刃，斩灭恶鬼！ 灶门炭治郎的征战于家用游戏再次拉开帷幕———\nPC NS PS5 Xbox Series X/S \n动作 冒险 格斗 多人 \n268.00
-SUMMARY:鬼灭之刃：火之神血风谭2
-UID:02440113-9657-4c8c-8bfc-86f9c7b3572f@0244.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250321
-CATEGORIES:GameIcs
-DESCRIPTION:本作的主题为“记忆”。每个人都有必须正视过去或自身“记忆”的那一刻。无论是成功还是失败，所有的记 ...\nPC PS4 Xbox One NS PS5 Xbox Series X/S \n休闲 角色扮演 \n349.00
-SUMMARY:优米雅的炼金工房 ～追忆之炼金术士与幻创之地～
-UID:92f7ba29-2e15-4095-909c-5c6e095bb9df@92f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250328
-CATEGORIES:GameIcs
-DESCRIPTION:“每个生命都将成为一段独特的故事。”通过控制并观察'Zois'，你可以创造出一段属于你的，独一无 ...\nPC \n冒险 休闲 模拟 \n188.00
-SUMMARY:云族裔
-UID:ce69232b-cf03-4756-a5c4-eb9dcffd908a@ce69.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-CATEGORIES:GameIcs
-DESCRIPTION:《兽人必须死!死亡陷阱》是一款动作+第三人称射击+塔防游戏\,在Rogue-lite元素体验中中扮 ...\nPC Xbox Series X/S \n动作 独立 策略 多人 \n
-SUMMARY:兽人必须死! 死亡陷阱
-UID:42c484ac-6cc1-46a5-b77f-67fb66e246c2@42c4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250307
-CATEGORIES:GameIcs
-DESCRIPTION:深入《Split Fiction》的多重世界，体验惊心动魄的时刻。这是由 2021 年度最佳游戏 ...\nPC PS5 Xbox Series X/S \n多人 冒险 动作 \n198.00
-SUMMARY:双影奇境
-UID:3fc42eb3-5c87-44ee-a47a-9de0cd431816@3fc4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-CATEGORIES:GameIcs
-DESCRIPTION:“达芬奇密室”系列开发团队呈上的全新冒险故事。人工设计的全新谜题等你破解，美到无法令人忘怀的地点 ...\nPC \n冒险 独立 解谜 \n
-SUMMARY:特斯拉的密室
-UID:77228b2f-0cac-4dbd-9a2f-c7dab25c4eeb@7722.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251016
-CATEGORIES:GameIcs
-DESCRIPTION:在推動都市再開發的「密阿雷市」展開的全新故事。\n♦冒險的舞台「密阿雷市」\n冒險的舞台是在《寶可夢 ...\nNS NS2 \n角色扮演 动作 \n295.64
-SUMMARY:宝可梦传说 Z-A
-UID:5f908cb4-02ae-4e26-a134-5c1a4d985eef@5f90.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250521
-CATEGORIES:GameIcs
-DESCRIPTION:在《JDM：漂移大师》中，尽情享受日本传奇的汽车文化！游戏采用精致的物理引擎，带您驰骋于充满挑战 ...\nPC \n竞速 体育 模拟 \n118.00
-SUMMARY:JDM：漂移大师
-UID:ebce7d55-72dc-4fcb-b6ab-18021dbfbf1a@ebce.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250310
-CATEGORIES:GameIcs
-DESCRIPTION:在这款多人射击游戏中，所有玩家都会获得“真正的作弊工具”。利用透视和自瞄等作弊手段，战胜其他作弊 ...\nPC \n动作 射击 多人 \n42.00
-SUMMARY:作弊猎豹
-UID:c7065887-181d-4767-8bf3-5c293ab194b6@c706.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250508
-CATEGORIES:GameIcs
-DESCRIPTION:这款令人惊叹的第三人称冒险游戏是继广受好评的《Spirit of the North》之后的又一 ...\nPC PS5 Xbox Series X/S \n冒险 休闲 独立 \n
-SUMMARY:北方之魂2
-UID:0c9db3e0-c734-4326-8241-5f2f0c549e75@0c9d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250326
-CATEGORIES:GameIcs
-DESCRIPTION:《欺神弄鬼》是一款架空女尊背景的女性向像素rpg游戏。游戏中您将扮演镇武司的缇骑在江湖与朝堂之中 ...\nPC \n国产 休闲 独立 角色扮演 模拟 \n42.00
-SUMMARY:欺神弄鬼
-UID:fc462165-572c-4a60-9ef6-3c9767fe6158@fc46.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251021
-CATEGORIES:GameIcs
-DESCRIPTION:畅销密室逃脱游戏的续作，再一次带来不同的第一人称视角解谜游戏，无论是独自游玩或是与朋友一同冒险都 ...\nPC \n独立 多人 冒险 休闲 模拟 \n
-SUMMARY:密室逃脱模拟器2
-UID:1efbfcb2-9eff-473e-b89f-48d3dd01b438@1efb.org
+UID:cff248f9-ebb4-47e3-8aed-7177720e938b@cff2.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250101
 CATEGORIES:GameIcs
 DESCRIPTION:《The Outer Worlds 2》是屡获奖项的第一人称科幻RPG《天外世界》的续作，由Ob ...\nPC Xbox Series X/S \n动作 冒险 角色扮演 \n
 SUMMARY:天外世界2
-UID:b1a26910-ba00-4f7b-af8d-9b5fbc07f525@b1a2.org
+UID:8520f658-44d6-4f95-87c7-ee519fdc56e7@8520.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250120
+DTSTART;VALUE=DATE:20250310
 CATEGORIES:GameIcs
-DESCRIPTION:《主播女孩重度依赖 网络梗打字通》是一款通过与渴望认同感的女孩子（超绝可爱天使酱）进行互动，输入 ...\nPC \n独立 休闲 动作 \n27.99
-SUMMARY:主播女孩重度依赖 网络梗打字通
-UID:e406ac68-e731-4e02-a44c-50cb4746383a@e406.org
+DESCRIPTION:在这款多人射击游戏中，所有玩家都会获得“真正的作弊工具”。利用透视和自瞄等作弊手段，战胜其他作弊 ...\nPC \n动作 射击 多人 \n42.00
+SUMMARY:作弊猎豹
+UID:42fea83f-40cf-4277-80e9-bcdfe158e8fb@42fe.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250220
+DTSTART;VALUE=DATE:20250109
 CATEGORIES:GameIcs
-DESCRIPTION:本作包含种田、采集、烹饪、装修等要素，还可以研发多种口味的面包、派和饼干，并带着它们去镇上交几个 ...\nPC \n独立 休闲 模拟 角色扮演 \n
-SUMMARY:Cinnabunny
-UID:2749ea0d-a9ae-4430-b5df-d589cff43d42@2749.org
+DESCRIPTION:这是一场成年人关于爱和意义的现代冒险。重返2011年的麻园，敲击面前的键盘：与人建立联系、成为别 ...\nPC \n视觉小说 国产 独立 冒险 模拟 \n52.00
+SUMMARY:S4U：都市朋克2011与爱的重拳
+UID:e0da13f3-0ba4-4123-b841-1fac62c37119@e0da.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250422
+DTSTART;VALUE=DATE:20250311
 CATEGORIES:GameIcs
-DESCRIPTION:绝望之地 是一款策略塔防游戏，你需要扮演突然被提前唤醒的船员，在殖民星舰遭受损坏的情况下，来到一 ...\nPC \n国产 独立 策略 \n45.00
-SUMMARY:绝望之地
-UID:ddec6004-2210-4846-93fa-3fe4f07198df@ddec.org
+DESCRIPTION:《啵啵鸡物语》是一款模拟类Roguelite类 RPG游戏，玩家需要挽救一家陷入困境的波霸奶茶店 ...\nPC \n类Rogue 国产 独立 模拟 动作 角色扮演 \n
+SUMMARY:啵啵鸡物语
+UID:a8f52408-a4bc-4b98-a104-3899b06c51ae@a8f5.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250626
+DTSTART;VALUE=DATE:20250107
 CATEGORIES:GameIcs
-DESCRIPTION:开启一段震撼心灵的使命，寻找UCA以外的人类连接。山姆和他的伙伴们开启新旅程，拯救濒临灭亡的人类 ...\nPS5 \n冒险 动作 \n467.75
-SUMMARY:死亡搁浅2：冥滩之上
-UID:109ae6e8-5824-4a68-a365-b411a0554b19@109a.org
+DESCRIPTION:进入蒸汽和糖的世界，在Chocolate Factory Simulator游戏中成为巧克力大师 ...\nPC \n独立 冒险 休闲 模拟 动作 \n
+SUMMARY:巧克力工厂模拟器
+UID:7a775e47-4eca-47d3-8a40-7d577fbf5003@7a77.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250919
+DTSTART;VALUE=DATE:20250218
 CATEGORIES:GameIcs
-DESCRIPTION:《胡言山的魔理沙》是一款由玩家选择与骰子指引推动的冒险RPG。 灵梦将踏入一本奇妙书籍中的世界， ...\nPC \n角色扮演 \n
-SUMMARY:胡言山的魔理沙
-UID:4dc2ef8d-c7ae-4c70-9c82-f80f17c7d83b@4dc2.org
+DESCRIPTION:踏上《奇异人生》创作者的全新叙事之旅。拍摄1995年的夏天，与新朋友一起创造终生难忘的回忆。27 ...\nPC PS5 Xbox Series X/S \n独立 冒险 \n
+SUMMARY:Lost Records: Bloom & Rage
+UID:6af9f54d-ab68-4b07-8096-2be298ea1b36@6af9.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250620
+DTSTART;VALUE=DATE:20250427
 CATEGORIES:GameIcs
-DESCRIPTION:这是一款可以全程单手操作的俯视角自动射击roguelike游戏。玩家扮演堕入梦境中的鼻诺曹，在梦 ...\nPC \n国产 动作 冒险 独立 类Rogue 角色扮演 \n22.00
-SUMMARY:黑色童话：梦境幸存者
-UID:8e94f19f-1777-41f0-8471-2ff73256019c@8e94.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250620
-CATEGORIES:GameIcs
-DESCRIPTION:《断箭》(Broken Arrow)是一款大型实时现代战争战术游戏. 基础版游戏将包含美国和俄罗 ...\nPC \n多人 策略 \n198.00
-SUMMARY:断箭
-UID:b8e74f41-4ee0-46ab-8dc4-8d4762ba9869@b8e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250729
-CATEGORIES:GameIcs
-DESCRIPTION:欢迎回家，伙计！快来在风景优美、宁静祥和的夏尔享受霍比特人的舒适生活吧！对于中土世界来说，这里就 ...\nPC NS PS5 Xbox Series X/S \n休闲 模拟 角色扮演 \n
-SUMMARY:指环王：夏尔传说
-UID:98df4134-6bf2-4e03-afd3-dd26c30fb0e6@98df.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250829
-CATEGORIES:GameIcs
-DESCRIPTION:本作是由热门作品《怒之铁拳4》的开发工作室带来的全新忍者动作游戏。独特的手绘美术风格细致且多彩地 ...\nPC PS4 Xbox One NS PS5 Xbox Series X/S \n动作 \n98.00
-SUMMARY:超级忍 反攻的斩击
-UID:8b91e4a1-7360-42e4-99d5-10da17ee17e9@8b91.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250619
-CATEGORIES:GameIcs
-DESCRIPTION:众望所归！广受欢迎的葛叶雷道的故事迎来复刻，重返舞台！ 凭借恶魔之力解开谜团，以畅快淋漓的战斗祓 ...\nPC NS PS5 Xbox Series X/S \n角色扮演 动作 \n238.00
-SUMMARY:RAIDOU Remastered: 超力兵团奇谭
-UID:8d655d5c-dd9b-4b31-8139-ed3cea3bb9ed@8d65.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250505
-CATEGORIES:GameIcs
-DESCRIPTION:这款轻度类Rogue游戏融入了方块落下消除机制以及其他多类游戏元素，令人耳目一新。你身为一方公爵 ...\nPC \n卡牌 类Rogue 独立 冒险 策略 \n58.00
-SUMMARY:方块公国
-UID:048e9331-dbc5-49c7-8b42-865f7702d007@048e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250206
-CATEGORIES:GameIcs
-DESCRIPTION:玩家将为了前往国家另一边开启长途公路旅行冒险，规划路线，收集旅途所需的物资，出发进入程序生成的开 ...\nPC \n独立 冒险 休闲 模拟 \n68.00
-SUMMARY:心驰神往
-UID:a8eda75d-3fd8-4646-937e-cb5dc06b90f5@a8ed.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-CATEGORIES:GameIcs
-DESCRIPTION:踏入尼瓦利斯的世界，壮大生意，管理餐厅和夜总会，结交朋友，与敌人斗智斗勇，购买公寓，装修布置，钓 ...\nPC \n冒险 角色扮演 模拟 \n
-SUMMARY:尼瓦利斯
-UID:bf6c1f6a-f695-416f-9ebb-6d5daa31ca50@bf6c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250523
-CATEGORIES:GameIcs
-DESCRIPTION:这是一款开放世界动作游戏，你将探索、掠夺并投入战斗，在经历了毁灭性陨石撞击后的末世未来中生存下来 ...\nPC \n冒险 动作 独立 角色扮演 策略 生存 \n119.00
-SUMMARY:秋末求生
-UID:000bf81e-926e-428e-b3ce-ad3e2eb788fd@000b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250410
-CATEGORIES:GameIcs
-DESCRIPTION:警告！你已受选参加将会改变全世界面貌的任务。来《Commandos: Origins》见证二战精 ...\nPC PS5 Xbox Series X/S \n策略 \n
-SUMMARY:盟军敢死队：起源
-UID:5636a321-fe67-4734-b99f-441f595c2043@5636.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250509
-CATEGORIES:GameIcs
-DESCRIPTION:在一个独特的角色扮演沙盒中建设像素郡小镇并发展你的社区，在这里生活模拟元素与小镇建设、探索和战斗 ...\nPC \n沙盒 建造 独立 冒险 模拟 \n
-SUMMARY:像素郡物语
-UID:a3be56cd-9476-4b8c-9c98-db62c24145c6@a3be.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250829
-CATEGORIES:GameIcs
-DESCRIPTION:踏上史诗般的冒险之旅，在《失落之魂》中从异次元入侵者手中拯救你的妹妹和全人类——这是一款酷炫的单 ...\nPC PS5 \n国产 冒险 动作 角色扮演 \n
-SUMMARY:失落之魂
-UID:3f771d44-9288-4bd6-845c-fe21d36ff8de@3f77.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250526
-CATEGORIES:GameIcs
-DESCRIPTION:《山海旅人2》是一款志怪冒险游戏。玩家将扮演七云，最后一位“逆梦师”，探索充满危机的村落和迷宫， ...\nPC \n国产 解谜 冒险 动作 \n
-SUMMARY:山海旅人2
-UID:388d0e69-ee5a-4648-a50f-ee35fab70ecc@388d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
-CATEGORIES:GameIcs
-DESCRIPTION:扮演一条活泼的柯基犬布雷兹，奔跑跳跃，进入由动物们掌控天气的云端世界，学习并掌握天气之力。积蓄狗 ...\nPC \n冒险 独立 动作 \n
-SUMMARY:Breeze in the Clouds
-UID:fc6752bb-3719-4417-9d7d-cfad26b392f1@fc67.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250214
-CATEGORIES:GameIcs
-DESCRIPTION:卡牌剧情冒险游戏。瘟疫之下，无人能够独善其身。灾荒、战争致使饿殍遍野，血流成河。您将扮演华佗、张 ...\nPC \n卡牌 视觉小说 国产 独立 休闲 策略 角色扮演 \n
-SUMMARY:浮生游歌
-UID:778e0e86-500f-49ab-a6fa-1b6d38a350b2@778e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250808
-CATEGORIES:GameIcs
-DESCRIPTION:在《四海兄弟：故乡》中揭开四海兄弟系列作品的起源，切身体验一段发生在上世纪西西里岛帮派集团中的黑 ...\nPC PS5 Xbox Series X/S \n冒险 动作 \n219.00
-SUMMARY:四海兄弟：故乡
-UID:a91d5455-2394-4e27-88e4-18ddd4974d1a@a91d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250801
-CATEGORIES:GameIcs
-DESCRIPTION:以“羁绊”之刃，斩灭恶鬼！ 灶门炭治郎的征战于家用游戏再次拉开帷幕———\nPC NS PS5 Xbox Series X/S \n动作 冒险 格斗 多人 \n268.00
-SUMMARY:鬼灭之刃：火之神血风谭2
-UID:d902e34a-8b57-45f2-b924-0dd22874971a@d902.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250422
-CATEGORIES:GameIcs
-DESCRIPTION:《上古卷轴IV：湮灭重制版》让这部2006年的年度扛鼎之作穿越时光的屏障，以全新的华美画面和精心 ...\nPC PS5 Xbox Series X/S \n角色扮演 \n249.00
-SUMMARY:上古卷轴4：湮没 复刻版
-UID:007f67cb-a1c8-4f9f-9e71-e1bfa1ffeba6@007f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250320
-CATEGORIES:GameIcs
-DESCRIPTION:在日本战国的历史背景下，体验史诗般的动作冒险故事！变身夺命忍者刺客，化为强大传奇武士，在一片混沌 ...\nPC PS5 Xbox Series X/S \n冒险 动作 \n348.00
-SUMMARY:刺客信条：影
-UID:0b7fa2fb-70db-4d4d-afbc-8061fe072328@0b7f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250418
-CATEGORIES:GameIcs
-DESCRIPTION:《乂闻录：轮回》是一款融合中国传统文化的黑暗武侠动作游戏。玩家将扮演剑圣的首徒，在高速攻防战中， ...\nPC \n国产 独立 冒险 动作 \n
-SUMMARY:义闻录：轮回
-UID:27558967-e808-43ec-9e00-490f43ad9871@2755.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250327
-CATEGORIES:GameIcs
-DESCRIPTION:在这座岛，怦然心动的每一刻。《DEAD OR ALIVE Xtreme》系列首次以恋爱游戏的形式 ...\nPC PS4 PS5 \n冒险 休闲 \n298.00
-SUMMARY:维纳斯璀璨假期 死或生沙滩排球
-UID:a02d720a-498c-4f52-b3ba-d0b7a61e55bb@a02d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250416
-CATEGORIES:GameIcs
-DESCRIPTION:做好准备跟在废弃的房子里游荡的鬼怪们周旋！成为世界上第一个在超自然现象环境下把鬼屋复原的改造家， ...\nPC \n模拟 \n
-SUMMARY:鬼屋改造家
-UID:1f3f92f4-a780-4c1c-963d-489296a9e142@1f3f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250912
-CATEGORIES:GameIcs
-DESCRIPTION:《无主之地4》是一款充满混乱的夺宝射击游戏，这里有数十亿种武器、致命敌人和激烈的合作战斗。化身四 ...\nPC PS5 Xbox Series X/S NS2 \n冒险 多人 射击 动作 \n
-SUMMARY:无主之地4
-UID:3443e113-cd45-412c-8639-c086d1f285c0@3443.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250501
-CATEGORIES:GameIcs
-DESCRIPTION:“OPUS：心相吾山”是一个剧情导向的多结局冒险故事，玩家将扮演迷失在幻境的主角，透过"摄影"去 ...\nPC \n独立 视觉小说 国产 冒险 \n
-SUMMARY:OPUS：心相吾山
-UID:5c73ee5e-2fbf-48d1-8833-252f84ffe9e8@5c73.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250515
-CATEGORIES:GameIcs
-DESCRIPTION:《吾今有世家》是一款以中国古代世家为题材，融合了模拟经营+策略玩法的游戏。在游戏中，你可以进行一 ...\nPC \n国产 冒险 角色扮演 模拟 策略 沙盒 建造 管理 \n58.00
-SUMMARY:吾今有世家
-UID:0bd27a0c-4a5e-42de-8ef3-9200bba14a1e@0bd2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250429
-CATEGORIES:GameIcs
-DESCRIPTION:《无限暖暖》是由叠纸游戏开发的暖暖系列第五代作品，是一款由UE5引擎打造的多平台开放世界游戏。这 ...\nPC Mobile PS5 \n国产 冒险 休闲 动作 角色扮演 模拟 免费开玩 \n
-SUMMARY:无限暖暖
-UID:645ea0b8-d7de-430f-bbf0-a87a882311c0@645e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250130
-CATEGORIES:GameIcs
-DESCRIPTION:跟凯蒂猫还有一众好朋友们一起踏上其乐融融的开放世界冒险之旅。在探索并恢复神秘岛屿的过程中与喜爱的 ...\nPC Mobile NS \n冒险 模拟 动作 休闲 独立 角色扮演 \n
-SUMMARY:凯蒂猫岛屿冒险
-UID:492cb614-00ad-4f8e-bf65-c22e4276e56c@492c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250424
-CATEGORIES:GameIcs
-DESCRIPTION:SNK的人气格斗游戏『饿狼传说』系列自1991年诞生以来一直引领着90年代格斗游戏的热潮。从19 ...\nPC PS4 PS5 Xbox Series X/S \n格斗 多人 动作 \n268.00
-SUMMARY:饿狼传说：群狼之城
-UID:154f3df9-9f50-4b27-a100-fbcec864b05b@154f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250411
-CATEGORIES:GameIcs
-DESCRIPTION:探索被诅咒的小镇木曾町！招募并训练福神好友！在任务出现纰漏时伸出援手！揭开自己被迫流亡他地的秘密 ...\nPC PS4 Xbox One NS PS5 Xbox Series X/S \n角色扮演 独立 冒险 模拟 \n
-SUMMARY:达愿福神社
-UID:0a86acb5-bb4b-4d70-a1d8-14377cf075c1@0a86.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250129
-CATEGORIES:GameIcs
-DESCRIPTION:《疯狂之石》是一款即时战术潜行游戏，故事发生在18世纪的一家西班牙修道院中。修道院中的五名囚犯汇 ...\nPC NS PS5 Xbox Series X/S \n独立 策略 动作 \n108.00
-SUMMARY:疯狂之石
-UID:866fa63a-e226-495f-aaf6-0cec383eeeaf@866f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250123
-CATEGORIES:GameIcs
-DESCRIPTION:继续未知的旅程──\n\n克劳德一行人脱离魔晄都市米德加，跨越了命运之墙，迈入未知荒野的旅程。在具备 ...\nPS5 \n角色扮演 \n467.75
-SUMMARY:最终幻想7：重生
-UID:7c49ea18-4d02-4fe4-98d0-0ed03826743e@7c49.org
+DESCRIPTION:最多支持4人对战的动作游戏！运用多样武器与忍术，生存到最后，成为「忍者之神」吧！\nPC \n动作 独立 多人 休闲 \n22.00
+SUMMARY:忍者大乱斗！
+UID:ef87e734-5e08-4bef-8a5a-fb604ff73469@ef87.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250508
 CATEGORIES:GameIcs
-DESCRIPTION:多洛可小镇是一款横板像素风休闲模拟经营游戏。在末日废土世界观下，从零开始建造您梦想中的农场，探索 ...\nPC \n角色扮演 国产 独立 冒险 休闲 模拟 \n48.00
-SUMMARY:多洛可小镇
-UID:a474caed-21de-4bfe-8d5a-3527eac145a1@a474.org
+DESCRIPTION:《Creature Keeper》是一款怪物驯化游戏，让你与交好的生物并肩实时战斗。将你喜爱的生 ...\nPC \n独立 冒险 动作 角色扮演 \n
+SUMMARY:生物驯养师
+UID:56bfc571-10e6-46ac-8d5c-dffb13af203d@56bf.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250101
+DTSTART;VALUE=DATE:20250122
 CATEGORIES:GameIcs
-DESCRIPTION:REPLACED是一款2.5D科幻复古未来主义动作平台游戏，玩家扮演的是一个被困在人类身体内、违 ...\nPC Xbox One Xbox Series X/S \n独立 冒险 动作 \n
-SUMMARY:Replaced
-UID:307747c4-cb7a-43e5-b1e1-86bbe0c5590d@3077.org
+DESCRIPTION:导力革命之父C·爱普斯泰恩博士预言了塞姆利亚大陆的末日——\n眼看着预言中的关键日期已日益逼近，建 ...\nPC PS4 PS5 \n角色扮演 \n328.00
+SUMMARY:英雄传说：界之轨迹 -告别塞姆利亚-
+UID:0fd43392-40de-48e0-95a8-f92ba980fdef@0fd4.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250306
+DTSTART;VALUE=DATE:20251113
 CATEGORIES:GameIcs
-DESCRIPTION:扮演一个名叫狼九思的狼族少年，在宿命的安排下，成为朝廷御史，懵懂闯入江湖，成为多方势力相互倾轧的 ...\nPC \n国产 独立 冒险 \n68.00
-SUMMARY:灵兽江湖
-UID:a4e0d428-5f4e-4902-8f60-b689f730a699@a4e0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250722
-CATEGORIES:GameIcs
-DESCRIPTION:Noor雀屏中选成为了神圣之光的守护者，ta踏上一场神秘的冒险之旅，在令人费解的幻象与视觉艺术谜 ...\nPC Mobile NS PS5 Xbox Series X/S \n解谜 休闲 冒险 独立 策略 \n48.00
-SUMMARY:纪念碑谷3
-UID:074080c0-69a3-4c56-9724-054416187dca@0740.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250417
-CATEGORIES:GameIcs
-DESCRIPTION:《降妖散记》是一款国风卡组构建roguelike游戏。上天无道，妖孽横行。在一次次与妖怪的对决中 ...\nPC \n卡牌 类Rogue 国产 独立 策略 角色扮演 \n58.00
-SUMMARY:降妖散记
-UID:2c411559-808e-462b-b465-a18e58814088@2c41.org
+DESCRIPTION:来自屡获殊荣的《纪元》系列：在公元 117 年打造罗马帝国。 你会鼓励经济增长，还是通过强权扩大 ...\nPC PS5 Xbox Series X/S \n策略 模拟 \n
+SUMMARY:纪元117：罗马和平
+UID:095e9ea9-7e5f-48b1-8ec5-33d96e89f103@095e.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250605
 CATEGORIES:GameIcs
 DESCRIPTION:橫跨大陸。跨越世界的賽車要開幕了！\n《瑪利歐賽車世界》的舞台是在廣闊無垠，各種環境連結在一起的世 ...\nNS2 \n竞速 \n410.93
 SUMMARY:马力欧卡丁车世界
-UID:c98c938f-07bf-4a03-9714-80e1de18ce48@c98c.org
+UID:23e4113a-6836-49d3-bb40-bb87c9c78370@23e4.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250305
+DTSTART;VALUE=DATE:20250220
 CATEGORIES:GameIcs
-DESCRIPTION:精心设计，细致运营，打造令人惊叹的博物馆！ 探寻震惊世界的古老文物。精心设计自己的博物馆，不断丰 ...\nPC PS5 Xbox Series X/S \n独立 休闲 模拟 策略 \n158.00
-SUMMARY:双点博物馆
-UID:43944ec1-4572-4f59-8144-68dc7050c269@4394.org
+DESCRIPTION:“黄游”是丸霸无双的新作，是一款无探索只刷怪的Roguelite平台动作游戏。这里有多种奇怪的敌 ...\nPC NS \n国产 独立 休闲 动作 \n38.00
+SUMMARY:黄老饼梦游惊奇
+UID:e8aa4e02-3d2d-45db-8329-a5c34e597501@e8aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250523
+CATEGORIES:GameIcs
+DESCRIPTION:这是一款开放世界动作游戏，你将探索、掠夺并投入战斗，在经历了毁灭性陨石撞击后的末世未来中生存下来 ...\nPC \n冒险 动作 独立 角色扮演 策略 生存 \n119.00
+SUMMARY:秋末求生
+UID:15b55555-6ef7-4b2d-8eb0-3a16caf2c97b@15b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250211
+CATEGORIES:GameIcs
+DESCRIPTION:屡获殊荣的策略游戏系列回归，翻开革命性新篇章。 《席德·梅尔的文明VII》让你能够建立世界上前所 ...\nPC PS4 Xbox One NS PS5 Xbox Series X/S \n模拟 策略 多人 \n298.00
+SUMMARY:文明7
+UID:cd95edeb-640a-4752-a9f0-170127ab878d@cd95.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250410
+CATEGORIES:GameIcs
+DESCRIPTION:——如果维持存在只能依靠他人的视线。『Girls Made Pudding -少女布丁旅情-』是 ...\nPC NS \n视觉小说 冒险 \n42.00
+SUMMARY:少女布丁旅情
+UID:40b3af41-88cd-483d-bda4-defb596274bf@40b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250826
+CATEGORIES:GameIcs
+DESCRIPTION:银河系最后的进攻力量。投入这款紧张刺激且疯狂的第三人称射击游戏，应征成为绝地潜兵，穿越战火肆虐的 ...\nPC PS5 Xbox Series X/S \n多人 射击 动作 \n198.00
+SUMMARY:绝地潜兵2
+UID:58efefde-225c-4676-a29d-a5d609643a74@58ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250123
+CATEGORIES:GameIcs
+DESCRIPTION:距《ENDER LILIES》的死亡之雨灾难数十年后， 失控的“人造生命体”带来了毁灭性的破坏。 ...\nPC PS4 Xbox One NS PS5 Xbox Series X/S \n类银河战士恶魔城 动作 角色扮演 \n78.00
+SUMMARY:终焉之玛格诺利亚：雾中盛放之花
+UID:077ca9db-6c96-4982-8e6b-be98650e31fd@077c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250605
+CATEGORIES:GameIcs
+DESCRIPTION:体验奇幻冒险与日常生活的 RPG《符文工房》系列最新作。 玩家可以在日常生活中种田、钓鱼和复兴村 ...\nPC NS \n冒险 动作 角色扮演 \n
+SUMMARY:符文工房 龙之天地
+UID:9126f3c6-f8f6-4821-84e6-6059fd883953@9126.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250626
+CATEGORIES:GameIcs
+DESCRIPTION:开启一段震撼心灵的使命，寻找UCA以外的人类连接。山姆和他的伙伴们开启新旅程，拯救濒临灭亡的人类 ...\nPS5 \n冒险 动作 \n467.75
+SUMMARY:死亡搁浅2：冥滩之上
+UID:aa923580-0e22-4124-b996-cd135f3858b5@aa92.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250124
+CATEGORIES:GameIcs
+DESCRIPTION:「奇异贤伴 爱达之歌」是款让玩家驾驶机人，成为以搜集稀有资源「橙珀结晶」为业的漂泊者。与贤士搭档 ...\nPC PS5 Xbox Series X/S \n多人 射击 动作 \n198.00
+SUMMARY:奇异贤伴：爱达之歌
+UID:bc6c3771-d939-4d0b-8137-5d8a99bf4241@bc6c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250425
+CATEGORIES:GameIcs
+DESCRIPTION:游戏将回归多人约会模拟模式，你可以在6位性感魔物中寻找约会对象。\nPC \n视觉小说 独立 休闲 模拟 策略 \n58.00
+SUMMARY:魔物学园4：魔物庆典
+UID:525fbbe2-0023-4363-b58b-b94f5103df9e@525f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250213
+CATEGORIES:GameIcs
+DESCRIPTION:号令名垂青史的各路一骑当千之英豪，挑战蜂拥而至的敌人。积累胜与败的经验，突破地狱的难关吧。\n\n■ ...\nPC PS4 NS PS5 Xbox Series X/S \n动作 角色扮演 类Rogue \n163.05
+SUMMARY:无双深渊
+UID:033a890a-0e3a-485c-9995-e242014712c8@033a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250327
+CATEGORIES:GameIcs
+DESCRIPTION:在这座岛，怦然心动的每一刻。《DEAD OR ALIVE Xtreme》系列首次以恋爱游戏的形式 ...\nPC PS4 PS5 \n冒险 休闲 \n298.00
+SUMMARY:维纳斯璀璨假期 死或生沙滩排球
+UID:329b0806-f083-4433-9ce6-2cb1c8ca66c9@329b.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250312
 CATEGORIES:GameIcs
 DESCRIPTION:《史丹利的寓言》(The Stanley Parable) 和《新手指南》(The Beginn ...\nPC PS5 \n冒险 独立 模拟 \n
 SUMMARY:Wanderstop
-UID:2df029b9-5a0c-4aea-8e16-f5b1b860197b@2df0.org
+UID:d395f64b-bfa7-44b6-b035-243c6ac14ba9@d395.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250326
+CATEGORIES:GameIcs
+DESCRIPTION:《欺神弄鬼》是一款架空女尊背景的女性向像素rpg游戏。游戏中您将扮演镇武司的缇骑在江湖与朝堂之中 ...\nPC \n国产 休闲 独立 角色扮演 模拟 \n42.00
+SUMMARY:欺神弄鬼
+UID:23379b7e-682e-4df9-a264-ffbef260cbd4@2337.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250422
+CATEGORIES:GameIcs
+DESCRIPTION:《上古卷轴IV：湮灭重制版》让这部2006年的年度扛鼎之作穿越时光的屏障，以全新的华美画面和精心 ...\nPC PS5 Xbox Series X/S \n角色扮演 \n249.00
+SUMMARY:上古卷轴4：湮没 复刻版
+UID:32589a45-8e49-4877-88eb-e521a3b6e4d7@3258.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250423
+CATEGORIES:GameIcs
+DESCRIPTION:大家好呀！准备好开启全新的美好 Dinkum 生活。在野性十足的澳洲小岛上建设属于自己的小镇。参 ...\nPC \n独立 模拟 角色扮演 \n70.00
+SUMMARY:金垦小镇
+UID:2f08eace-8fba-4d3a-a38e-bad380107602@2f08.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250521
+CATEGORIES:GameIcs
+DESCRIPTION:《怪物火车》续作归来，准备好迎接全新氏族、敌对派系、挑战、模式以及更多！感受享誉盛名的rogue ...\nPC NS PS5 Xbox Series X/S \n卡牌 类Rogue 独立 策略 \n
+SUMMARY:怪物火车2
+UID:6df175a9-8256-4479-994f-ded3956f079f@6df1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250530
+CATEGORIES:GameIcs
+DESCRIPTION:《艾尔登法环 黑夜君临》（ELDEN RING NIGHTREIGN）为基于《艾尔登法环》（EL ...\nPC PS5 Xbox Series X/S \n多人 动作 角色扮演 \n
+SUMMARY:艾尔登法环：黑夜君临
+UID:5501de6a-6f19-4883-ba93-f5587fddaabd@5501.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250404
+CATEGORIES:GameIcs
+DESCRIPTION:《不可撤离区》是一款融合了克苏鲁元素与撤离玩法的射击冒险游戏。你将引导“英勇就义”的步兵干员，潜 ...\nPC \n动作 冒险 生存 \n48.00
+SUMMARY:不可撤离区
+UID:f5eb6c2d-a3a3-47e9-bdee-ff171237347f@f5eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250620
+CATEGORIES:GameIcs
+DESCRIPTION:《断箭》(Broken Arrow)是一款大型实时现代战争战术游戏. 基础版游戏将包含美国和俄罗 ...\nPC \n多人 策略 \n198.00
+SUMMARY:断箭
+UID:32b34bc0-eb7b-4f2f-9f37-eaf9f233e4d1@32b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250924
+CATEGORIES:GameIcs
+DESCRIPTION:在Bungie推出的团队撤离射击游戏中，搜寻天仓五IV的失落殖民地。选择你的疾行者，即具有独特能 ...\nPC PS5 Xbox Series X/S \n动作 多人 射击 \n
+SUMMARY:失落星船：马拉松
+UID:5bb8bbdb-9e9b-4aed-ade9-741eff8f26a1@5bb8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250619
+CATEGORIES:GameIcs
+DESCRIPTION:《Rematch》是一款多人在线足球游戏。 从沉浸式第三人称的视角中，控制队伍中的一名球员，并投 ...\nPC PS5 Xbox Series X/S \n动作 独立 体育 多人 \n108.00
+SUMMARY:开球
+UID:3dec5000-afeb-47e8-96eb-f8c7b8a8cc41@3dec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251001
+CATEGORIES:GameIcs
+DESCRIPTION:你将扮演巫师，体验细节丰富的魔法学校和城镇生活。与同学和市民建立关系，通过上课和完成作业来发展你 ...\nPC \n独立 模拟 \n
+SUMMARY:Witchbrook
+UID:21ba9a46-713b-41f0-96ce-8620a4eb486b@21ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250220
+CATEGORIES:GameIcs
+DESCRIPTION:本作包含种田、采集、烹饪、装修等要素，还可以研发多种口味的面包、派和饼干，并带着它们去镇上交几个 ...\nPC \n独立 休闲 模拟 角色扮演 \n
+SUMMARY:Cinnabunny
+UID:f7351d54-930f-4394-86fa-f7b100a2dec5@f735.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+CATEGORIES:GameIcs
+DESCRIPTION:踏入尼瓦利斯的世界，壮大生意，管理餐厅和夜总会，结交朋友，与敌人斗智斗勇，购买公寓，装修布置，钓 ...\nPC \n冒险 角色扮演 模拟 \n
+SUMMARY:尼瓦利斯
+UID:00e7510d-47e2-4633-bec1-2de63a31edc5@00e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251010
+CATEGORIES:GameIcs
+DESCRIPTION:在《小小梦魇》独特的世界观中踏上全新的冒险旅途。 在《小小梦魇3》中，你将循着 Low 以及Al ...\nPC PS4 Xbox One NS PS5 Xbox Series X/S \n恐怖 多人 解谜 冒险 \n196.00
+SUMMARY:小小梦魇3
+UID:cc190bde-1edc-4414-810f-aa4339c83d68@cc19.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+CATEGORIES:GameIcs
+DESCRIPTION:扮演一条活泼的柯基犬布雷兹，奔跑跳跃，进入由动物们掌控天气的云端世界，学习并掌握天气之力。积蓄狗 ...\nPC \n冒险 独立 动作 \n
+SUMMARY:Breeze in the Clouds
+UID:25466c6f-8b6e-4e62-95c5-d7d05334f735@2546.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250306
+CATEGORIES:GameIcs
+DESCRIPTION:扮演一个名叫狼九思的狼族少年，在宿命的安排下，成为朝廷御史，懵懂闯入江湖，成为多方势力相互倾轧的 ...\nPC \n国产 独立 冒险 \n68.00
+SUMMARY:灵兽江湖
+UID:1c4c1391-556d-4ce9-a005-ce9087e19e40@1c4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250404
+CATEGORIES:GameIcs
+DESCRIPTION:荣获300多项年度游戏奖之作，经过一系列技术性改良，推出全面增强的《The Last of Us ...\nPC PS5 \n冒险 动作 \n327.75
+SUMMARY:最后生还者：第二部 复刻版
+UID:d3740c92-ff8f-4cd0-b36d-0eb34e7d3971@d374.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250702
+CATEGORIES:GameIcs
+DESCRIPTION:《解限机》是一款近未来科幻机甲主题的动作射击对战游戏。化身为不可阻挡的王牌驾驶员，与战友们一同驾 ...\nPC Xbox Series X/S \n大型多人在线 国产 动作 \n
+SUMMARY:解限机
+UID:39e1b177-0c1b-4d33-8300-9e7590009d00@39e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250505
+CATEGORIES:GameIcs
+DESCRIPTION:这款轻度类Rogue游戏融入了方块落下消除机制以及其他多类游戏元素，令人耳目一新。你身为一方公爵 ...\nPC \n卡牌 类Rogue 独立 冒险 策略 \n58.00
+SUMMARY:方块公国
+UID:66af4b63-2f7e-4099-8c08-012d1bca82f4@66af.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250820
+CATEGORIES:GameIcs
+DESCRIPTION:《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传 ...\nPC PS5 Xbox Series X/S \n国产 冒险 动作 角色扮演 \n245.40
+SUMMARY:黑神话：悟空
+UID:372db9c2-62da-474e-99f5-e2f0f68e2dbb@372d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250114
+CATEGORIES:GameIcs
+DESCRIPTION:《三相奇谈》的故事发生在一个幻想中的东方世界。数千年的繁荣时代早已落幕，人、妖怪、龙族混居的青龙 ...\nPC \n国产 冒险 独立 解谜 \n54.00
+SUMMARY:三相奇谈
+UID:fa8ff26c-3917-4b08-aa4c-a39a7a496561@fa8f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250123
+CATEGORIES:GameIcs
+DESCRIPTION:继续未知的旅程──\n\n克劳德一行人脱离魔晄都市米德加，跨越了命运之墙，迈入未知荒野的旅程。在具备 ...\nPS5 \n角色扮演 \n467.75
+SUMMARY:最终幻想7：重生
+UID:6682beae-8ac1-42e7-bdf7-d32d51699f71@6682.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250410
+CATEGORIES:GameIcs
+DESCRIPTION:“要么爷死，要么魔女亡。来场不是深渊就是巅峰的死亡对决！” 濑名原Asuha，自封稀世天才赌徒。 ...\nPC \n卡牌 视觉小说 独立 冒险 角色扮演 \n59.00
+SUMMARY:深渊绝赌：千王处刑
+UID:d7762910-d71e-45c3-96f9-d9c440f9e721@d776.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+CATEGORIES:GameIcs
+DESCRIPTION:《雷顿教授》最新作，故事发生在《最后的时光之旅》一年后，雷顿教授一行来到了美国。\nNS \n冒险 \n
+SUMMARY:雷顿教授与蒸汽新世界
+UID:ae4fd222-f577-45e7-802e-f225b263d063@ae4f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250919
+CATEGORIES:GameIcs
+DESCRIPTION:《胡言山的魔理沙》是一款由玩家选择与骰子指引推动的冒险RPG。 灵梦将踏入一本奇妙书籍中的世界， ...\nPC \n角色扮演 \n
+SUMMARY:胡言山的魔理沙
+UID:2cb138d0-f5cb-4761-9787-d7bb31b74054@2cb1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250220
+CATEGORIES:GameIcs
+DESCRIPTION:《TRIBE NINE》是一款生死一线×动作RPG。 玩家在无数次死亡中摸索攻略，进而战胜强敌。 ...\nPC Mobile \n免费开玩 动作 角色扮演 \n
+SUMMARY:TRIBE NINE：战极死游
+UID:c9e074e9-eed3-445a-a74c-f905033c1e4c@c9e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250515
+CATEGORIES:GameIcs
+DESCRIPTION:《吾今有世家》是一款以中国古代世家为题材，融合了模拟经营+策略玩法的游戏。在游戏中，你可以进行一 ...\nPC \n国产 冒险 角色扮演 模拟 策略 沙盒 建造 管理 \n58.00
+SUMMARY:吾今有世家
+UID:73ec88fd-b47a-4288-9b40-f540c239bb7a@73ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250626
+CATEGORIES:GameIcs
+DESCRIPTION:AQUAPLUS推出的“温暖人心的校园恋爱游戏”将以高清全3D形式焕新归来！\n\n春天近在眼前。\n ...\nPC NS \n冒险 视觉小说 模拟 \n
+SUMMARY:ToHeart：重制版
+UID:a8256eb8-3976-4566-a7a9-5fcde22bac96@a825.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+CATEGORIES:GameIcs
+DESCRIPTION:《留级生》是一款融合了ARPG和恋爱模拟元素的不良少女模拟器，你将扮演一名夜不归宿的另类女高中生 ...\nPC \n国产 独立 冒险 \n
+SUMMARY:不良少女：留级生
+UID:18e06349-f6f0-4bbb-aa11-60a1ca95cf04@18e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250801
+CATEGORIES:GameIcs
+DESCRIPTION:警告：切勿外出。紧闭门户。拉紧窗帘。只允许人类进入。消灭所有“伪人”。一款关于末日偏执症的焦虑类 ...\nPC \n模拟 独立 恐怖 \n
+SUMMARY:寻找伪人
+UID:e94e7374-39e2-4042-907f-7f6d17e90cfe@e94e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+CATEGORIES:GameIcs
+DESCRIPTION:体验无畏冒险家和精明商人的双重人生！沉浸进一个生机勃勃的鲜活世界，那里既有闪亮耀眼的战利品，也有 ...\nPC \n类Rogue 冒险 动作 角色扮演 \n
+SUMMARY:夜勤人2：无尽宝库
+UID:7a7268db-9395-4000-a18a-abec5763d3b9@7a72.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250123
+CATEGORIES:GameIcs
+DESCRIPTION:位置于最先端的【罪恶装备 -GUILTY GEAR-】系列，最新作品【GUILTY GEAR - ...\nPC PS4 Xbox One NS PS5 Xbox Series X/S \n格斗 动作 \n218.00
+SUMMARY:罪恶装备：奋战
+UID:8547432b-02d2-4465-9729-7bdf46fd2e79@8547.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+CATEGORIES:GameIcs
+DESCRIPTION:独自从失忆中睁开双眼的少年陷入了一个未知的黑暗梦境，《雾都残梦:心域突围》是一款结合超现实主义叙 ...\nPC Xbox Series X/S \n动作 角色扮演 冒险 独立 \n
+SUMMARY:雾都残梦：心域突围
+UID:602c5268-2c84-4184-b974-b9f06cceb56e@602c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250131
+CATEGORIES:GameIcs
+DESCRIPTION:城市遭到围困！\n\n彼得·帕克与迈尔斯·墨拉莱斯这两名蜘蛛侠必须对抗残暴的毒液以及凶险的新共生体威 ...\nPC PS5 \n冒险 动作 \n398.00
+SUMMARY:漫威蜘蛛侠2
+UID:5b4bd2b5-af1d-4e80-9b8a-65f725a85c7c@5b4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250307
+CATEGORIES:GameIcs
+DESCRIPTION:在这款温馨的农场游戏中，你将经营自己的农场商店。照顾好你的动物和农场，将你的商品售卖给可爱的森林 ...\nPC PS4 NS PS5 Xbox Series X/S \n独立 休闲 模拟 \n66.00
+SUMMARY:甘露岛 - 温馨的农场商店
+UID:e7d03f69-b59c-4cd1-a50d-9a7907e5c15b@e7d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250417
+CATEGORIES:GameIcs
+DESCRIPTION:《降妖散记》是一款国风卡组构建roguelike游戏。上天无道，妖孽横行。在一次次与妖怪的对决中 ...\nPC \n卡牌 类Rogue 国产 独立 策略 角色扮演 \n58.00
+SUMMARY:降妖散记
+UID:0a76a81b-43c0-4ec1-bb7e-74a149ce4aa1@0a76.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250327
+CATEGORIES:GameIcs
+DESCRIPTION:「“世界”，是一个可以找到真正心愿的地方。」 - 初音未来\n游戏讲述了五组热爱音乐的少年少女们误 ...\nMobile \n音乐 文字 \n
+SUMMARY:初音未来：缤纷舞台
+UID:840d4ca0-2a0d-4b9b-ae70-5320ede4bbe5@840d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250509
+CATEGORIES:GameIcs
+DESCRIPTION:在一个独特的角色扮演沙盒中建设像素郡小镇并发展你的社区，在这里生活模拟元素与小镇建设、探索和战斗 ...\nPC \n沙盒 建造 独立 冒险 模拟 \n
+SUMMARY:像素郡物语
+UID:d5c8340d-6f51-4aa5-8a8e-1169fc239822@d5c8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250213
+CATEGORIES:GameIcs
+DESCRIPTION:诅咒之盒、凶宅、异界……“都市传说解体中心”负责调查/回收各种诅咒之物和怪异现象，并揭破“都市传 ...\nPC NS PS5 \n推理 视觉小说 恐怖 冒险 \n
+SUMMARY:都市传说解体中心
+UID:79a9f192-0346-481e-bc65-deb67e77821b@79a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+CATEGORIES:GameIcs
+DESCRIPTION:《The First Berserker: Khazan》是一款硬核动作角色扮演类游戏。玩家在游 ...\nPC PS5 Xbox Series X/S \n冒险 动作 角色扮演 类魂 \n
+SUMMARY:The First Berserker: Khazan
+UID:4c02e41f-9a79-4292-9eb8-2c4b128b2825@4c02.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250117
+CATEGORIES:GameIcs
+DESCRIPTION:如临真实战场迎战千军万马，畅享爽快的一骑当千动作！“无名英雄”携手三国英杰们闯荡乱世的‘真・三国 ...\nPC PS5 Xbox Series X/S \n动作 策略 角色扮演 \n349.00
+SUMMARY:真·三国无双 起源
+UID:b5e8f6eb-cbe2-4d88-8065-8474fb1a9748@b5e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250619
+CATEGORIES:GameIcs
+DESCRIPTION:《妖之乡》是一款东方奇幻的怪物收集RPG冒险游戏。你将作为御妖师探索太古大陆，邂逅丰富多样的妖精 ...\nPC \n国产 独立 冒险 休闲 模拟 策略 角色扮演 \n58.00
+SUMMARY:妖之乡
+UID:5fd8d09b-5183-473c-8854-208fb9bdb4a7@5fd8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251030
+CATEGORIES:GameIcs
+DESCRIPTION:《晕晕电波症候群》是一款节奏冒险游戏。某个家里蹲少女吸食电波歌曲后上网激情输出萌萌怪文书，嗨翻天 ...\nPC \n独立 模拟 \n
+SUMMARY:晕晕电波症候群
+UID:b67e71a2-87c0-41a9-94c1-c4860e6f64ed@b67e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250305
+CATEGORIES:GameIcs
+DESCRIPTION:精心设计，细致运营，打造令人惊叹的博物馆！ 探寻震惊世界的古老文物。精心设计自己的博物馆，不断丰 ...\nPC PS5 Xbox Series X/S \n独立 休闲 模拟 策略 \n158.00
+SUMMARY:双点博物馆
+UID:e87bf08f-806d-491e-bcbe-a57496453e0f@e87b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250915
+CATEGORIES:GameIcs
+DESCRIPTION:穿梭异世界，打造属于偶像的「圣地」！ 偶像×模拟城镇游戏！ 与可爱的偶像们一同打造专属的「粉丝圣 ...\nPC NS \n冒险 独立 模拟 \n
+SUMMARY:偶像传奇！闪耀再临
+UID:535956e5-11ec-45cd-ad5a-50027fff2b3f@5359.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250828
+CATEGORIES:GameIcs
+DESCRIPTION:维持原作体验核心的同时，更加进化的沉浸体验。 以2004年推出的「METAL GEAR SOLI ...\nPC PS5 Xbox Series X/S \n动作 \n409.00
+SUMMARY:合金装备Δ：食蛇者
+UID:c84d4c28-30cd-42b1-8420-7fb5b5dc336e@c84d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250327
+CATEGORIES:GameIcs
+DESCRIPTION:日本最具影响力的角色之一“吉伊”作为手机游戏登场！\n“吉伊”曾于『日本角色大赏2022』、『日本 ...\nMobile \n角色扮演 \n
+SUMMARY:口袋吉伊卡哇
+UID:a6cac2bc-d3ab-4b1e-95fd-57f9fb92999c@a6ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250423
+CATEGORIES:GameIcs
+DESCRIPTION:《Dolls Nest》是一款可以由玩家自定义机甲少女，探索废墟世界的自定义3D动作类游戏。 玩 ...\nPC \n动作 \n
+SUMMARY:Dolls Nest
+UID:f2800e02-b1f7-4011-ab55-eb5bc6c0931c@f280.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251021
+CATEGORIES:GameIcs
+DESCRIPTION:畅销密室逃脱游戏的续作，再一次带来不同的第一人称视角解谜游戏，无论是独自游玩或是与朋友一同冒险都 ...\nPC \n独立 多人 冒险 休闲 模拟 \n
+SUMMARY:密室逃脱模拟器2
+UID:d3faca09-5861-42cc-9e65-f15c4fa3f99b@d3fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250307
+CATEGORIES:GameIcs
+DESCRIPTION:深入《Split Fiction》的多重世界，体验惊心动魄的时刻。这是由 2021 年度最佳游戏 ...\nPC PS5 Xbox Series X/S \n多人 冒险 动作 \n198.00
+SUMMARY:双影奇境
+UID:2841392a-2e82-4792-8fea-b0a78ba9ee88@2841.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250801
+CATEGORIES:GameIcs
+DESCRIPTION:以“羁绊”之刃，斩灭恶鬼！ 灶门炭治郎的征战于家用游戏再次拉开帷幕———\nPC NS PS5 Xbox Series X/S \n动作 冒险 格斗 多人 \n268.00
+SUMMARY:鬼灭之刃：火之神血风谭2
+UID:0f4f52cc-c63d-4d61-a37e-ae4c14486ea8@0f4f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250205
+CATEGORIES:GameIcs
+DESCRIPTION:走进 15 世纪的欧洲，体验丰富多彩的开放世界，畅玩这款精彩的叙事驱动型角色扮演游戏，开启究极中 ...\nPC PS5 Xbox Series X/S \n冒险 动作 角色扮演 \n228.00
+SUMMARY:天国：拯救2
+UID:a1710c49-efe0-46ee-8cb0-054a34551f22@a171.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250426
+CATEGORIES:GameIcs
+DESCRIPTION:搭建桥梁，盖成高塔，改造地形，为飞行器注入燃料……屡获殊荣的《粘粘世界》推出了一款让人叹为观止的 ...\nPC NS \n冒险 休闲 独立 解谜 \n
+SUMMARY:粘粘世界2
+UID:8dc7048b-3781-48fa-a23c-697156ed3c56@8dc7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250410
+CATEGORIES:GameIcs
+DESCRIPTION:是想带着自己的梦想平步青云，还是把别人的美梦统统碾碎在脚底？从有声电影曙光初现的时代开始，你将执 ...\nPC \n建造 模拟 策略 \n79.00
+SUMMARY:好莱坞动物
+UID:b1bab749-33e5-4eb3-a1ed-84384cdcf1f4@b1ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250808
+CATEGORIES:GameIcs
+DESCRIPTION:在《四海兄弟：故乡》中揭开四海兄弟系列作品的起源，切身体验一段发生在上世纪西西里岛帮派集团中的黑 ...\nPC PS5 Xbox Series X/S \n冒险 动作 \n219.00
+SUMMARY:四海兄弟：故乡
+UID:48b38bf3-9d94-4fd2-987e-7ffc56a6da08@48b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250919
+CATEGORIES:GameIcs
+DESCRIPTION:剧情RPG“轨迹”系列在 2024 年迎来 20 周年。\n具有纪念性意义的系列首部作品《英雄传说 ...\nPC NS PS5 \n\n
+SUMMARY:空之轨迹 the 1st
+UID:5bd36f06-ae73-442d-b436-14d748aaecb3@5bd3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+CATEGORIES:GameIcs
+DESCRIPTION:Discover a vast\, haunted kingdom in Hollow Knigh ...\nPC NS \n冒险 独立 动作 \n
+SUMMARY:空洞骑士：丝之歌
+UID:13cc288d-907b-4448-821b-1fd5ed819450@13cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+CATEGORIES:GameIcs
+DESCRIPTION:经营一个动物们光顾的澡堂吧！《动物温泉》是一款轻松的模拟游戏，可以在屏幕底部一边完成其他任务一边 ...\nPC \n休闲 独立 模拟 放置 \n
+SUMMARY:动物温泉（2025）
+UID:6593e544-b19e-4818-8c45-66728df8254a@6593.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250305
+CATEGORIES:GameIcs
+DESCRIPTION:本作将于2025年3月5日登陆Steam。\n\n继《Kanon》后Key推出的第二款Windows ...\nPC Mobile NS PSV PSP PS2 DC \n视觉小说 文字 冒险 休闲 模拟 \n108.00
+SUMMARY:AIR
+UID:9d4465e7-ecdf-47f8-aed3-45635c7f06ce@9d44.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+CATEGORIES:GameIcs
+DESCRIPTION:末日将近，您将立身于一个弥漫诡异与绝望的双面宇宙，领导残存的力量对抗来自异界的威胁：打造特遣队， ...\nPC \n独立 角色扮演 策略 \n
+SUMMARY:断面寄生：二元突破
+UID:63b0cb9a-1223-4994-bb17-732d5aa30e34@63b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250411
+CATEGORIES:GameIcs
+DESCRIPTION:探索被诅咒的小镇木曾町！招募并训练福神好友！在任务出现纰漏时伸出援手！揭开自己被迫流亡他地的秘密 ...\nPC PS4 Xbox One NS PS5 Xbox Series X/S \n角色扮演 独立 冒险 模拟 \n
+SUMMARY:达愿福神社
+UID:5498a75f-6058-4adf-915c-1a6bdfa289a9@5498.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250424
+CATEGORIES:GameIcs
+DESCRIPTION:SNK的人气格斗游戏『饿狼传说』系列自1991年诞生以来一直引领着90年代格斗游戏的热潮。从19 ...\nPC PS4 PS5 Xbox Series X/S \n格斗 多人 动作 \n268.00
+SUMMARY:饿狼传说：群狼之城
+UID:9a88f83b-d003-467a-b010-b0b4278126e5@9a88.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250104
+CATEGORIES:GameIcs
+DESCRIPTION:CraftCraft是一款手工艺经商模拟RPG。为人鱼公主制作一条精美的项链，或是献上一把龙血铸 ...\nPC \n独立 休闲 模拟 角色扮演 \n
+SUMMARY:奇巧匠：手工经商模拟
+UID:64e8c8a8-c776-4559-8e00-e3f834a6a7bf@64e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250129
+CATEGORIES:GameIcs
+DESCRIPTION:《疯狂之石》是一款即时战术潜行游戏，故事发生在18世纪的一家西班牙修道院中。修道院中的五名囚犯汇 ...\nPC NS PS5 Xbox Series X/S \n独立 策略 动作 \n108.00
+SUMMARY:疯狂之石
+UID:63d558c6-9dfb-4736-a987-2cb47fcf95b9@63d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+CATEGORIES:GameIcs
+DESCRIPTION:在审判日结束后的开放世界中扮演幸存者，独自奋战或携手合作来搜寻资源，为人类建立行动基地。但你并非 ...\nPC PS5 Xbox Series X/S \n冒险 动作 角色扮演 \n
+SUMMARY:终结者：幸存者
+UID:2f02a7e6-2974-4fbb-b317-a1fd9c0e3226@2f02.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250131
+CATEGORIES:GameIcs
+DESCRIPTION:游走在行将崩溃的星系边缘，体验叛逃仿生人的人生。你拖着一副残躯，头上悬着赏金，脑内却全无过去的记 ...\nPC NS PS5 Xbox Series X/S \n冒险 角色扮演 独立 \n92.00
+SUMMARY:深空梦里人2：逐星之旅
+UID:edd1dc1f-21ed-45e5-aacc-a03f8cd1d920@edd1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250417
+CATEGORIES:GameIcs
+DESCRIPTION:玩家将以第一视角，扮演一名高中辍学的女孩，她被迫进入注塑厂打工。后来，她通过一款网络游戏，认识了 ...\nPC \n视觉小说 国产 独立 休闲 角色扮演 \n
+SUMMARY:锈翅 逃离我的家乡
+UID:74d55a62-4a2c-4cad-947b-958382fb8da1@74d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250422
+CATEGORIES:GameIcs
+DESCRIPTION:《万手一体》是一款实景拼贴风格的怪奇卡牌冒险游戏，通过创意卡牌玩法找到隐藏在这疯狂世界后的真相。 ...\nPC \n卡牌 国产 独立 冒险 休闲 策略 角色扮演 \n68.00
+SUMMARY:万手一体
+UID:1281f8b6-7c41-4ebe-bfee-7fe23d67eebb@1281.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250116
+CATEGORIES:GameIcs
+DESCRIPTION:“美德传奇f”变得更加绚丽、更加易于游玩后，再次问世！ 同时收录本篇之后的后日谈“迈向未来的系谱 ...\nPC PS4 Xbox One NS PS5 Xbox Series X/S \n动作 角色扮演 \n
+SUMMARY:圣恩传说f 复刻版
+UID:c8535255-480c-4594-a271-af76f31bdbae@c853.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250718
+CATEGORIES:GameIcs
+DESCRIPTION:你将扮演狐狸记者托马斯，在严酷的监狱中生存、探索和逃脱。努力收集证据，洗清冤屈。结交个性十足的囚 ...\nPC \n独立 冒险 推理 国产 模拟 策略 角色扮演 \n78.00
+SUMMARY:动物迷城
+UID:fc4efb73-2fd4-4f2c-b5db-162e558f575c@fc4e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250604
+CATEGORIES:GameIcs
+DESCRIPTION:玩家将控制一名与怪物一同生活在地表的人类──Kris，并与同班的怪物同学Susie和在旅途中遇到 ...\nPC PS4 NS PS5 NS2 \n角色扮演 独立 \n98.00
+SUMMARY:三角符文
+UID:8c2601e1-8c83-4ba3-a6e8-ddd4d938a400@8c26.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250828
+CATEGORIES:GameIcs
+DESCRIPTION:《牧场物语》系列最新作登场！故事的舞台是微风吹拂的小镇“煦风镇”。你可以悉心经营牧场，种植农作物 ...\nPC NS NS2 \n休闲 模拟 \n
+SUMMARY:牧场物语 来吧！风之繁华集市
+UID:b96ea87d-87eb-4b8b-abed-2847d53d052b@b96e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+CATEGORIES:GameIcs
+DESCRIPTION:「残音系少年少女」是一部多结局解谜冒险ADV。一群失去记忆的少年少女将会 设法逃出将人们囚禁在心 ...\nPC \n视觉小说 解谜 冒险 \n
+SUMMARY:残音系少年少女
+UID:3de98037-e129-45d8-931e-9173509e8e6b@3de9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250619
+CATEGORIES:GameIcs
+DESCRIPTION:“多来几条这样的笨鱼就好了...比狗还听话！”在首款情感反诈互动影游中，直面“捞女”的真实面目。 ...\nPC \n独立 冒险 策略 角色扮演 \n33.00
+SUMMARY:情感反诈模拟器
+UID:4dab5a76-16fb-42f7-a5bf-0ba4f6923cb2@4dab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250410
+CATEGORIES:GameIcs
+DESCRIPTION:欢迎来到霍利山庄，每逢破晓时分，此处便有奥秘浮出水面。穿梭于变幻莫测的走廊与房间，体验独树一帜的 ...\nPC \n独立 策略 冒险 \n108.00
+SUMMARY:蓝途王子
+UID:54b4c6c7-aa2c-496f-ad62-6d40e80dd93c@54b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+CATEGORIES:GameIcs
+DESCRIPTION:《兽人必须死!死亡陷阱》是一款动作+第三人称射击+塔防游戏\,在Rogue-lite元素体验中中扮 ...\nPC Xbox Series X/S \n动作 独立 策略 多人 \n
+SUMMARY:兽人必须死! 死亡陷阱
+UID:503d6b10-e607-459a-9465-09ad41147ce5@503d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250410
+CATEGORIES:GameIcs
+DESCRIPTION:警告！你已受选参加将会改变全世界面貌的任务。来《Commandos: Origins》见证二战精 ...\nPC PS5 Xbox Series X/S \n策略 \n
+SUMMARY:盟军敢死队：起源
+UID:318ccaeb-6202-4d3b-809d-95e8416f7de0@318c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+CATEGORIES:GameIcs
+DESCRIPTION:《冲就完事模拟器》强势回归，带来崭新地点、登峰“皂”极的清洁设备和亮点四射的特色玩法。无论是独自 ...\nPC PS5 Xbox Series X/S \n休闲 模拟 多人 \n
+SUMMARY:冲就完事模拟器2
+UID:4f22bd05-90f4-4c54-96f7-65b1e2b35988@4f22.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250424
+CATEGORIES:GameIcs
+DESCRIPTION:名侦探·金田一耕助第一案“本阵杀人事件”。在位于冈山县的旧本阵后裔一柳家的偏院内，刚举办完婚礼的 ...\nPC NS \n冒险 休闲 视觉小说 推理 \n52.00
+SUMMARY:金田一耕助系列 本阵杀人事件
+UID:aa806582-ecc4-4fd9-b7f6-5c6b9d113fef@aa80.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250602
+CATEGORIES:GameIcs
+DESCRIPTION:和同伴一起，利用颜色变换、三消射击和各式帮手，在充满未知的异世界里不断前进。此刻，你们将踏上奇妙 ...\nPC \n国产 多人 冒险 休闲 动作 \n66.00
+SUMMARY:泡姆泡姆
+UID:8f750fa6-197c-42c4-a24c-eab77c687c97@8f75.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250827
+CATEGORIES:GameIcs
+DESCRIPTION:是引领伙伴的“领导者”——抑或是操控一切的“支配者”？《暗徒誓约》是一款校园RPG，通过与在“自 ...\nPC NS PS5 \n角色扮演 \n
+SUMMARY:暗徒誓约
+UID:a678ca5e-a61c-4763-8cfd-33fc6ebc5163@a678.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251002
+CATEGORIES:GameIcs
+DESCRIPTION:公元1603年，羊蹄山麓。草甸、雪原、悄然而至的危险。笃的旅程由此展开。\nPS5 \n角色扮演 动作 \n467.75
+SUMMARY:羊蹄山之魂
+UID:c40068b8-6294-4734-9e96-38550af6768f@c400.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250218
+CATEGORIES:GameIcs
+DESCRIPTION:《宣誓》以《永恒之柱》系列中首次向玩家呈现的奇幻世界 Eora 为背景，它是一款第一人称奇幻角色 ...\nPC Xbox Series X/S \n角色扮演 \n
+SUMMARY:宣誓
+UID:488fdc65-4134-412d-9121-d3c6c3dcfa5a@488f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250418
+CATEGORIES:GameIcs
+DESCRIPTION:「LUNAR: Silver Star Story」与「LUNAR 2: Eternal Blu ...\nPC PS4 NS \n冒险 角色扮演 \n
+SUMMARY:露娜 经典合辑
+UID:b07fedea-93c4-40d4-a03a-0e208520042e@b07f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250107
+CATEGORIES:GameIcs
+DESCRIPTION:通过捕鱼拯救世界！ 这是一款全新的动作 RPG 游戏，你将置身于一个广阔的像素世界中，冒险捕捞这 ...\nPC \n独立 冒险 动作 角色扮演 \n
+SUMMARY:海洋幻想
+UID:74595a60-474d-43f3-83a1-564c1a27b4a4@7459.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250311
+CATEGORIES:GameIcs
+DESCRIPTION:本游戏由曾推出《仁王》和《NINJA GAIDEN》的资深工作室Team NINJA精心打造。进 ...\nPC PS5 \n动作 角色扮演 \n248.00
+SUMMARY:浪人崛起
+UID:2e7591b3-4a5d-447f-8128-6fab2fd20971@2e75.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250508
+CATEGORIES:GameIcs
+DESCRIPTION:这款令人惊叹的第三人称冒险游戏是继广受好评的《Spirit of the North》之后的又一 ...\nPC PS5 Xbox Series X/S \n冒险 休闲 独立 \n
+SUMMARY:北方之魂2
+UID:2cfe1a4e-9ca2-45f2-8867-74bcee88a36a@2cfe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250422
+CATEGORIES:GameIcs
+DESCRIPTION:绝望之地 是一款策略塔防游戏，你需要扮演突然被提前唤醒的船员，在殖民星舰遭受损坏的情况下，来到一 ...\nPC \n国产 独立 策略 \n45.00
+SUMMARY:绝望之地
+UID:0f8263b0-fa0c-4803-ab15-825eb9e8a531@0f82.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250724
+CATEGORIES:GameIcs
+DESCRIPTION:明末：渊虚之羽是一款类魂动作角色扮演游戏，故事发生在巴蜀之地，此时正值黑暗动荡的明末，战事四起， ...\nPC Xbox Series X/S \n类魂 冒险 动作 角色扮演 国产 \n248.00
+SUMMARY:明末：渊虚之羽
+UID:6bf742a2-a830-4132-83ca-17ae5fc4058c@6bf7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250114
+CATEGORIES:GameIcs
+DESCRIPTION:《爱、互联网、杀人魔法》是一款Roguelike养成游戏。你将扮演某个因谋杀去世的主播的经纪人， ...\nPC \n类Rogue 视觉小说 恐怖 国产 独立 解谜 \n18.00
+SUMMARY:爱、互联网、杀人魔法
+UID:13bed584-566a-400a-815b-603c0708bd8a@13be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250321
+CATEGORIES:GameIcs
+DESCRIPTION:本作的主题为“记忆”。每个人都有必须正视过去或自身“记忆”的那一刻。无论是成功还是失败，所有的记 ...\nPC PS4 Xbox One NS PS5 Xbox Series X/S \n休闲 角色扮演 \n349.00
+SUMMARY:优米雅的炼金工房 ～追忆之炼金术士与幻创之地～
+UID:af030e7e-6b62-4164-9d32-3986826399d6@af03.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250526
+CATEGORIES:GameIcs
+DESCRIPTION:《山海旅人2》是一款志怪冒险游戏。玩家将扮演七云，最后一位“逆梦师”，探索充满危机的村落和迷宫， ...\nPC \n国产 解谜 冒险 动作 \n
+SUMMARY:山海旅人2
+UID:c1e6c6d2-374a-4446-9d77-4f54b7e50128@c1e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250610
+CATEGORIES:GameIcs
+DESCRIPTION:在《Dune: Awakening》这款大型多人生存游戏中从求生到实现壮举，并挑战帝国的力量。在 ...\nPC \n大型多人在线 生存 冒险 动作 角色扮演 \n160.00
+SUMMARY:沙丘：觉醒
+UID:488b130e-1c81-413c-8edb-ed8275c667f2@488b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250630
+CATEGORIES:GameIcs
+DESCRIPTION:Rediscover the classic combat charm of "Little F ...\nPC \n独立 国产 格斗 多人 动作 \n
+SUMMARY:小朋友齐打交2 复刻版
+UID:5626a858-f4b4-41fc-a473-b91a27c41d5f@5626.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250228
+CATEGORIES:GameIcs
+DESCRIPTION:狂野凶猛的大自然，袭来。\n\n时刻都在动态变化的原野。\n这是个关于生活在具有两面性的世界中的怪物与 ...\nPC PS5 Xbox Series X/S \n动作 角色扮演 冒险 \n368.00
+SUMMARY:怪物猎人：荒野
+UID:7fd11b83-f710-43e7-bca4-734af0adc92b@7fd1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250731
+CATEGORIES:GameIcs
+DESCRIPTION:《NINJA GAIDEN：怒之羁绊》是以红白机《忍者龙剑传》为灵感的系列的全新横版卷轴作品，由 ...\nPC NS PS5 Xbox Series X/S \n独立 冒险 动作 \n
+SUMMARY:忍者外传：怒之羁绊
+UID:a5fb7332-710b-4da0-b2fb-db8330aae5f9@a5fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250630
+CATEGORIES:GameIcs
+DESCRIPTION:《DRAPLINE》是一款养成类Roguelite游戏，你需要将某天捡到的饥饿小龙培养成最强大的 ...\nPC \n独立 冒险 模拟 角色扮演 \n42.00
+SUMMARY:Drapline
+UID:9500456f-b831-4e4d-82ee-821d50e9b573@9500.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250429
+CATEGORIES:GameIcs
+DESCRIPTION:《无限暖暖》是由叠纸游戏开发的暖暖系列第五代作品，是一款由UE5引擎打造的多平台开放世界游戏。这 ...\nPC Mobile PS5 \n国产 冒险 休闲 动作 角色扮演 模拟 免费开玩 \n
+SUMMARY:无限暖暖
+UID:39217896-b967-40f1-8f1e-29112b508317@3921.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250416
+CATEGORIES:GameIcs
+DESCRIPTION:做好准备跟在废弃的房子里游荡的鬼怪们周旋！成为世界上第一个在超自然现象环境下把鬼屋复原的改造家， ...\nPC \n模拟 \n
+SUMMARY:鬼屋改造家
+UID:14931f57-28a2-446a-87be-362ebba75715@1493.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+CATEGORIES:GameIcs
+DESCRIPTION:《昭和米国物语》是一款向80年代流行文化致敬、以浓烈B级片风格呈现的全新RPG作品；见证少女“蝶 ...\nPC PS4 PS5 \n国产 独立 冒险 动作 角色扮演 \n
+SUMMARY:昭和米国物语
+UID:ecab4b67-450d-4c0a-9d4e-dce9e7406176@ecab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250829
+CATEGORIES:GameIcs
+DESCRIPTION:踏上史诗般的冒险之旅，在《失落之魂》中从异次元入侵者手中拯救你的妹妹和全人类——这是一款酷炫的单 ...\nPC PS5 \n国产 冒险 动作 角色扮演 \n
+SUMMARY:失落之魂
+UID:8afba14f-14ac-4716-8aaa-5f00b68c698a@8afb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250912
+CATEGORIES:GameIcs
+DESCRIPTION:《无主之地4》是一款充满混乱的夺宝射击游戏，这里有数十亿种武器、致命敌人和激烈的合作战斗。化身四 ...\nPC PS5 Xbox Series X/S NS2 \n冒险 多人 射击 动作 \n
+SUMMARY:无主之地4
+UID:178f6fc7-5626-43af-b83d-44ce7fa8c018@178f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250324
+CATEGORIES:GameIcs
+DESCRIPTION:维罗亚这片和平大陆濒临战争，因为阿斯维利亚帝国谋求扩张——以你的家园为代价。指挥不可能的英雄，进 ...\nPC \n冒险 独立 角色扮演 策略 \n88.00
+SUMMARY:晦暗神祇2
+UID:de938737-02fc-4789-b138-32587af851db@de93.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250501
+CATEGORIES:GameIcs
+DESCRIPTION:魔女之子海珂将踏上旅程！在禁忌之地进行冒险的2D像素俯视角动作RPG游戏。在旅途的空档，通过露营 ...\nPC NS PS5 \n动作 角色扮演 休闲 \n
+SUMMARY:HYKE：北极光
+UID:47ae6f27-b3b4-4e53-82ed-86913bcd24c9@47ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250205
+CATEGORIES:GameIcs
+DESCRIPTION:由《笼中窥梦》的团队倾情呈现，这是一场探索何为等待的新颖冒险，什么都不做就能轻松通关游戏。在从出 ...\nPC \n国产 独立 解谜 冒险 休闲 \n66.00
+SUMMARY:阿蛋等什么
+UID:ab945e6c-6f32-4f83-a568-58b2d53578c8@ab94.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250716
+CATEGORIES:GameIcs
+DESCRIPTION:《全职猎人》首款正式对战格斗游戏登场！\n\n■ 3对3念能力组队对战\n本作是3vs3团队对决，\n角 ...\nPC NS PS5 \n动作 格斗 多人 \n
+SUMMARY:Hunter×Hunter Nen×Impact
+UID:7f47a120-9c12-4fae-9b1b-a1a4274a2c3a@7f47.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+CATEGORIES:GameIcs
+DESCRIPTION:Ultimate Sheep Raccoon 是一款可以自定义赛道的自行车竞速派对游戏。挑战遍布 ...\nPC \n独立 多人 动作 竞速 休闲 \n
+SUMMARY:超级羊熊
+UID:4e486ef5-bc22-4e42-adc1-e811e2405dea@4e48.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250408
+CATEGORIES:GameIcs
+DESCRIPTION:《午夜以南》是由 Compulsion Games 倾力打造的一款全新动作冒险游戏。在这个现代版 ...\nPC Xbox Series X/S \n动作 冒险 \n198.00
+SUMMARY:午夜以南
+UID:74bdfe9e-ff91-431f-bc69-5e64a7ee099e@74bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250214
+CATEGORIES:GameIcs
+DESCRIPTION:一款全粤语配音的恐怖剧情游戏，你将作为一位保安员，探索一幢猛鬼的大楼，了解传说中的极凶恶鬼"辫子 ...\nPC \n国产 冒险 独立 视觉小说 恐怖 解谜 \n38.00
+SUMMARY:猛鬼大厦2
+UID:906c7b87-35cd-4db0-beab-a9cafaa01fa7@906c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250301
+CATEGORIES:GameIcs
+DESCRIPTION:《Parallel Rift》是一款四维解谜游戏，玩家需要沿着W轴穿越相连的空间，最终抵达终点。 ...\nPC \n冒险 独立 动作 解谜 \n
+SUMMARY:Parallel Rift
+UID:1b2f2f3c-51fc-4feb-934d-1e6529bcb599@1b2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+CATEGORIES:GameIcs
+DESCRIPTION:“达芬奇密室”系列开发团队呈上的全新冒险故事。人工设计的全新谜题等你破解，美到无法令人忘怀的地点 ...\nPC \n冒险 独立 解谜 \n
+SUMMARY:特斯拉的密室
+UID:22efd3e9-73d3-4d13-a48e-d83a29d542f8@22ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250325
+CATEGORIES:GameIcs
+DESCRIPTION:From small-time dope pusher to kingpin - manufac ...\nPC \n动作 独立 模拟 策略 多人 \n76.00
+SUMMARY:Schedule I
+UID:25777c2f-cd3d-4419-ac88-31e40fd76eb7@2577.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+CATEGORIES:GameIcs
+DESCRIPTION:与私家侦探杰克·佩珀一起，投身一场弹雨连天、爵士绕梁的冒险。《神探杰克鼠》将1930年代的经典手 ...\nPC \n动作 独立 射击 \n
+SUMMARY:神探杰克鼠
+UID:f9b1f31e-493e-43a5-8fcb-e8c36f3e23e2@f9b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250214
+CATEGORIES:GameIcs
+DESCRIPTION:卡牌剧情冒险游戏。瘟疫之下，无人能够独善其身。灾荒、战争致使饿殍遍野，血流成河。您将扮演华佗、张 ...\nPC \n卡牌 视觉小说 国产 独立 休闲 策略 角色扮演 \n
+SUMMARY:浮生游歌
+UID:e3092090-d180-4311-993f-0ba48f4e63dc@e309.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250206
+CATEGORIES:GameIcs
+DESCRIPTION:NecroDancer 系列全新节奏游戏续作，震撼归来！意外落入怪异新世界的凯登丝，不得不拿起乐 ...\nPC NS \n独立 动作 角色扮演 \n
+SUMMARY:节奏裂隙
+UID:2330cafd-b85a-4c0b-ab01-5a8d5c4d7197@2330.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250417
+CATEGORIES:GameIcs
+DESCRIPTION:在人类离弃地球数千年后，兔子们主宰了这个世界... Stamp\, 一个拥有年迈灵魂的可爱兔子，驾 ...\nPC NS PS5 \n动作 \n
+SUMMARY:锈兔异途
+UID:b84003ca-8790-4edb-8a55-f2d31ca0225a@b840.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250120
+CATEGORIES:GameIcs
+DESCRIPTION:《主播女孩重度依赖 网络梗打字通》是一款通过与渴望认同感的女孩子（超绝可爱天使酱）进行互动，输入 ...\nPC \n独立 休闲 动作 \n27.99
+SUMMARY:主播女孩重度依赖 网络梗打字通
+UID:aa6e5092-f99d-4e18-b1ed-e1edc55105a3@aa6e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250120
+CATEGORIES:GameIcs
+DESCRIPTION:《青天井》是一款以麻将为主题的卡牌roguelike游戏。踏入「青天井」，使用源自世界各地麻将风 ...\nPC \n休闲 独立 模拟 策略 类Rogue 国产 \n45.00
+SUMMARY:青天井
+UID:40926cf8-a1e3-4822-9415-c6b90d7ee14d@4092.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250725
+CATEGORIES:GameIcs
+DESCRIPTION:Ratatan是一款融合了节奏跟横轴动作，可以最多四人一起合作的Roguelike节奏动作游戏。 ...\nPC PS4 NS PS5 Xbox Series X/S \n类Rogue 独立 音乐 冒险 休闲 动作 角色扮演 \n
+SUMMARY:啦嗒铛
+UID:5c3b7b5e-7e0f-4932-ad03-108f02016afe@5c3b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251016
+CATEGORIES:GameIcs
+DESCRIPTION:在推動都市再開發的「密阿雷市」展開的全新故事。\n♦冒險的舞台「密阿雷市」\n冒險的舞台是在《寶可夢 ...\nNS NS2 \n角色扮演 动作 \n295.64
+SUMMARY:宝可梦传说 Z-A
+UID:4b49fead-425d-4094-aae1-1b1e94eddbb6@4b49.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250321
+CATEGORIES:GameIcs
+DESCRIPTION:让所有可游玩角色觉醒，并在极限状况下展开逆转对决， 体验“BLEACH”的“一击必杀”的戏剧性对 ...\nPC PS5 Xbox Series X/S \n格斗 多人 动作 \n298.00
+SUMMARY:死神：魂魄觉醒
+UID:d842b2aa-62ce-43f7-9ea1-440fce2ab8fd@d842.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250722
+CATEGORIES:GameIcs
+DESCRIPTION:Noor雀屏中选成为了神圣之光的守护者，ta踏上一场神秘的冒险之旅，在令人费解的幻象与视觉艺术谜 ...\nPC Mobile NS PS5 Xbox Series X/S \n解谜 休闲 冒险 独立 策略 \n48.00
+SUMMARY:纪念碑谷3
+UID:09e5a16f-1998-4db8-b22e-5dd526fe6245@09e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+CATEGORIES:GameIcs
+DESCRIPTION:REPLACED是一款2.5D科幻复古未来主义动作平台游戏，玩家扮演的是一个被困在人类身体内、违 ...\nPC Xbox One Xbox Series X/S \n独立 冒险 动作 \n
+SUMMARY:Replaced
+UID:3d477403-f431-47ba-adf6-c84e79be8249@3d47.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250501
+CATEGORIES:GameIcs
+DESCRIPTION:《叛逆神魂》是个剧情向、视觉刺激系RPG。你将邂逅、联结执着游戏、绘画、编程等不同兴趣的“叛逆” ...\nPC \n独立 冒险 策略 角色扮演 国产 \n45.88
+SUMMARY:叛逆神魂
+UID:5b6268d7-62f6-4e95-87e9-e780bd8aafd9@5b62.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250619
+CATEGORIES:GameIcs
+DESCRIPTION:众望所归！广受欢迎的葛叶雷道的故事迎来复刻，重返舞台！ 凭借恶魔之力解开谜团，以畅快淋漓的战斗祓 ...\nPC NS PS5 Xbox Series X/S \n角色扮演 动作 \n238.00
+SUMMARY:RAIDOU Remastered: 超力兵团奇谭
+UID:5263cd28-9324-4150-8d04-857723622e95@5263.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250806
+CATEGORIES:GameIcs
+DESCRIPTION:以“羁绊”之刃，斩灭恶鬼！ 灶门炭治郎的征战于家用游戏再次拉开帷幕———\nPC NS PS5 Xbox Series X/S \n动作 冒险 格斗 多人 \n268.00
+SUMMARY:鬼灭之刃：火之神血风谭2
+UID:9f166d02-0bf5-4056-b878-bcc975ed65bf@9f16.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250118
+CATEGORIES:GameIcs
+DESCRIPTION:《光明记忆：无限》国内游戏开发者"飞燕群岛"最新作品。2036年世界各地的天空上突然出现了异象， ...\nPC Mobile Xbox One Xbox Series X/S \n国产 独立 射击 动作 \n48.00
+SUMMARY:光明记忆：无限
+UID:9a47d9fd-89b7-4ed7-be06-ade3c5f196ff@9a47.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250322
+CATEGORIES:GameIcs
+DESCRIPTION:在《Urban Jungle》中，使用赏心悦目的植物让普通公寓焕发蓬勃绿意。在你的小公寓里为每株 ...\nPC \n独立 休闲 模拟 \n
+SUMMARY:我的小绿屋
+UID:5c5e57e1-5ff7-477d-bd53-cde0fdb914f8@5c5e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250306
+CATEGORIES:GameIcs
+DESCRIPTION:随着108位伙伴，少年的命运开始转动- KONAMI经典名作RPG『Suikoden I』＆『S ...\nPC PS4 Xbox One NS PS5 Xbox Series X/S \n角色扮演 \n168.00
+SUMMARY:幻想水浒传1&2 高清复刻合集
+UID:df3c2762-3665-4d57-ae1a-dc97c0cfea66@df3c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250725
+CATEGORIES:GameIcs
+DESCRIPTION:网络偶像伊丽丝被外星人绑架了！？ 伊丽丝被神秘飞碟掳走，陷入一场匪夷所思的密室逃脱游戏。 在这样 ...\nPC NS NS2 \n冒险 推理 视觉小说 \n
+SUMMARY:无法成眠的伊达键 - From AI：梦境档案
+UID:17b05a83-575d-486a-9f04-68f1933abd69@17b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250424
+CATEGORIES:GameIcs
+DESCRIPTION:“极限×绝望”！惊心动魄的ADV！某一天，“澄野拓海”等15名学生突然被召集到“最终防卫学园”， ...\nPC NS \n冒险 模拟 视觉小说 \n238.00
+SUMMARY:百日战纪-最终防卫学园-
+UID:275a6af6-6959-4783-880c-456006ab1fb6@275a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250327
+CATEGORIES:GameIcs
+DESCRIPTION:在文明濒临灭亡的遥远未来，人们追寻着【净地】的传说，聚集到最后的城市——海汶斯威尔。在这款后启示 ...\nPC PS5 \n冒险 动作 角色扮演 国产 独立 \n159.00
+SUMMARY:无限机兵
+UID:19620ae2-1e40-45df-a50f-94f203ef3b1c@1962.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250729
+CATEGORIES:GameIcs
+DESCRIPTION:欢迎回家，伙计！快来在风景优美、宁静祥和的夏尔享受霍比特人的舒适生活吧！对于中土世界来说，这里就 ...\nPC NS PS5 Xbox Series X/S \n休闲 模拟 角色扮演 \n
+SUMMARY:指环王：夏尔传说
+UID:efc7c6ca-2dc2-4ff5-b40c-ed28e469d736@efc7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250401
+CATEGORIES:GameIcs
+DESCRIPTION:告别摇人烦恼，20+经典职业自动拼团！实时监控数据，自由定义团队，多维构筑成长，征服强力副本！  ...\nPC \n模拟 独立 角色扮演 休闲 放置 \n22.00
+SUMMARY:放置拼好团
+UID:f074a438-84e6-4673-9e11-77c14b1174ce@f074.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250508
+CATEGORIES:GameIcs
+DESCRIPTION:多洛可小镇是一款横板像素风休闲模拟经营游戏。在末日废土世界观下，从零开始建造您梦想中的农场，探索 ...\nPC \n角色扮演 国产 独立 冒险 休闲 模拟 \n48.00
+SUMMARY:多洛可小镇
+UID:7506a4d4-aaee-4d21-ab55-ce8c4d006869@7506.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250423
+CATEGORIES:GameIcs
+DESCRIPTION:反乌托邦游戏《旁观者》系列衍生作，玩家需要仔细监视车厢中的每个乘客，报告他们的可疑活动及违禁行为 ...\nPC \n冒险 模拟 策略 \n
+SUMMARY:旁观者：列车长
+UID:b46f3aef-b3ea-4397-8aab-a0d8e6691eeb@b46f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250423
+CATEGORIES:GameIcs
+DESCRIPTION:《Sunderfolk》是一款共享式回合制战术 RPG 冒险游戏，可以将您的手机当作控制器来用。 ...\nPC NS PS5 Xbox Series X/S \n角色扮演 策略 \n248.00
+SUMMARY:破碎族裔
+UID:6fb01355-856e-4fa0-8793-76eb0dae867a@6fb0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250925
+CATEGORIES:GameIcs
+DESCRIPTION:主人公是居住在群山环绕的日本乡村小镇·戎之丘的高中生·深水雏子。 她的日常生活因为神秘白色“怪物 ...\nPC PS5 Xbox Series X/S \n动作 恐怖 冒险 \n391.00
+SUMMARY:寂静岭f
+UID:ffd6cc34-950b-408d-a1f1-8795dda8ef9d@ffd6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250822
+CATEGORIES:GameIcs
+DESCRIPTION:《消逝的光芒：困兽》是险象环生的丧尸世界中的一场独立冒险，故事背景设定在一个精心打造的乡村地区。 ...\nPC PS5 Xbox Series X/S \n动作 角色扮演 \n248.00
+SUMMARY:消逝的光芒：困兽
+UID:477a743c-e15d-4a4e-bb1c-5c16bce1f084@477a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250221
+CATEGORIES:GameIcs
+DESCRIPTION:本作由真岛吾朗担任主角，是一款描绘《人中之龙８》之后故事的全新作品。 这次的舞台是岛屿，以及…… ...\nPC PS4 Xbox One PS5 Xbox Series X/S \n冒险 动作 角色扮演 \n268.00
+SUMMARY:如龙8外传：夏威夷海盗
+UID:1183de1f-cf05-446b-8ca3-fecc5645c98a@1183.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250206
+CATEGORIES:GameIcs
+DESCRIPTION:玩家将为了前往国家另一边开启长途公路旅行冒险，规划路线，收集旅途所需的物资，出发进入程序生成的开 ...\nPC \n独立 冒险 休闲 模拟 \n68.00
+SUMMARY:心驰神往
+UID:35ec2c72-510e-4a70-ad1c-4ee93b009070@35ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250331
+CATEGORIES:GameIcs
+DESCRIPTION:苏丹被黑魔法师蛊惑，命令你和他玩一个残酷的游戏。每周你必须从四种特殊的卡片中抽一张：纵欲卡需要你 ...\nPC \n卡牌 国产 独立 冒险 模拟 策略 角色扮演 \n80.00
+SUMMARY:苏丹的游戏
+UID:ffecae72-0a83-45c1-bc87-6851373eb838@ffec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250612
+CATEGORIES:GameIcs
+DESCRIPTION:人类的命运岌岌可危。地球为怪异而强大的生物所肆虐，惨遭遗弃。残存的人类余部已逃亡至位于外太空的拓 ...\nPC PS5 \n动作 角色扮演 \n268.00
+SUMMARY:剑星
+UID:743374c0-e785-411f-bd7e-b34dc3fec020@7433.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250321
+CATEGORIES:GameIcs
+DESCRIPTION:在这款集资源管理、攻城防御和探索于一体的即时战略游戏中，设计并一砖一瓦地建造你的堡垒，对抗无尽的 ...\nPC \n模拟 策略 \n99.00
+SUMMARY:灾厄堡垒
+UID:fb889767-978c-47fa-b25e-fa684d30894c@fb88.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250521
+CATEGORIES:GameIcs
+DESCRIPTION:在《JDM：漂移大师》中，尽情享受日本传奇的汽车文化！游戏采用精致的物理引擎，带您驰骋于充满挑战 ...\nPC \n竞速 体育 模拟 \n118.00
+SUMMARY:JDM：漂移大师
+UID:fb3604fc-9802-4ccd-9b51-70072d66b845@fb36.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250320
+CATEGORIES:GameIcs
+DESCRIPTION:在日本战国的历史背景下，体验史诗般的动作冒险故事！变身夺命忍者刺客，化为强大传奇武士，在一片混沌 ...\nPC PS5 Xbox Series X/S \n冒险 动作 \n348.00
+SUMMARY:刺客信条：影
+UID:2f9d9ed6-3e8b-4493-acf9-7b1f8c104265@2f9d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250501
+CATEGORIES:GameIcs
+DESCRIPTION:“OPUS：心相吾山”是一个剧情导向的多结局冒险故事，玩家将扮演迷失在幻境的主角，透过"摄影"去 ...\nPC \n独立 视觉小说 国产 冒险 \n
+SUMMARY:OPUS：心相吾山
+UID:e95ab773-4fdd-4cca-bdc9-8b3fd5034798@e95a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250417
+CATEGORIES:GameIcs
+DESCRIPTION:在这款第一人称单人冒险游戏中，探索历史上最伟大的谜团之一吧。1937年，平静的世界下波涛暗涌，邪 ...\nPC PS5 Xbox Series X/S \n冒险 动作 \n349.00
+SUMMARY:夺宝奇兵：古老之圈
+UID:75d29f4a-43c0-46cf-b7f1-d58f26dee60f@75d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250410
+CATEGORIES:GameIcs
+DESCRIPTION:1980年，德克萨斯州。沃尔顿市陷入了丧尸大爆发之中。玩家要带领一群绝望的幸存者从一个避难所迁往 ...\nPC \n生存 恐怖 模拟 策略 动作 \n86.00
+SUMMARY:勇闯死人谷：暗黑之日
+UID:4e489110-63c8-4d84-9b4a-bf35337b5c4b@4e48.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250418
+CATEGORIES:GameIcs
+DESCRIPTION:《乂闻录：轮回》是一款融合中国传统文化的黑暗武侠动作游戏。玩家将扮演剑圣的首徒，在高速攻防战中， ...\nPC \n国产 独立 冒险 动作 \n
+SUMMARY:义闻录：轮回
+UID:b44784af-10ab-423d-b032-39fcbd2aec1f@b447.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250130
+CATEGORIES:GameIcs
+DESCRIPTION:跟凯蒂猫还有一众好朋友们一起踏上其乐融融的开放世界冒险之旅。在探索并恢复神秘岛屿的过程中与喜爱的 ...\nPC Mobile NS \n冒险 模拟 动作 休闲 独立 角色扮演 \n
+SUMMARY:凯蒂猫岛屿冒险
+UID:47783f9c-9784-4788-a8dc-afc61462a53b@4778.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250829
+CATEGORIES:GameIcs
+DESCRIPTION:本作是由热门作品《怒之铁拳4》的开发工作室带来的全新忍者动作游戏。独特的手绘美术风格细致且多彩地 ...\nPC PS4 Xbox One NS PS5 Xbox Series X/S \n动作 \n98.00
+SUMMARY:超级忍 反攻的斩击
+UID:0b7ef913-bd66-47da-9119-20a060d0e7a9@0b7e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250328
+CATEGORIES:GameIcs
+DESCRIPTION:“每个生命都将成为一段独特的故事。”通过控制并观察'Zois'，你可以创造出一段属于你的，独一无 ...\nPC \n冒险 休闲 模拟 \n188.00
+SUMMARY:云族裔
+UID:dca9f4d4-dc66-4bf3-a4e9-cfde07842dd5@dca9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250620
+CATEGORIES:GameIcs
+DESCRIPTION:这是一款可以全程单手操作的俯视角自动射击roguelike游戏。玩家扮演堕入梦境中的鼻诺曹，在梦 ...\nPC \n国产 动作 冒险 独立 类Rogue 角色扮演 \n22.00
+SUMMARY:黑色童话：梦境幸存者
+UID:921eb5d7-b2d9-43ea-84c4-00c7fd5f3fcd@921e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+CATEGORIES:GameIcs
+DESCRIPTION:《仙乡小千金》是一款东方仙侠题材的多结局养成游戏。您将扮演一位父亲或母亲，在这片钟灵毓秀的世外桃 ...\nPC \n国产 独立 冒险 休闲 模拟 角色扮演 \n
+SUMMARY:仙乡小千金
+UID:626dfcec-1bde-4702-b056-9e979a4632af@626d.org
 END:VEVENT
 END:VCALENDAR
